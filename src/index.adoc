@@ -1,0 +1,38 @@
+= Open Source Tips
+:toc:
+
+:author:   Eddie Jaoude
+:twitter:  https://twitter.com/eddiejaoude
+:date:     2016
+:version:  0.0.1
+
+[abstract]
+== Abstract
+
+This book are tips of DOs & DONT of Open Source software.
+
+[preface]
+== Preface
+
+Open Source is really dominating the industry. With so many projects out there from well known Organisations like Facebook, Twitter, NetFlix etc to passionate individuals around the world. How do you share your work & how do you decide who's work to use with so much choice. As with technology that keep on changing, this book will need continually updating, suggestions & pull requests are welcome. Currently on version v{version}
+
+<<<
+== Introduction
+
+With so many people contributing to Open Source & be successful, it would be beneficial to capture their success. Also to capture what didn't work too, so these steps can be avoided.
+
+TIP: This book will continually be updated, please check the version {version}. Any question please contact the author {author} on {twitter}.
+
+<<<
+== DOs
+
+Recommended...
+
+include::do.adoc[]
+
+<<<
+== DONTs
+
+NOT recommended...
+
+include::dont.adoc[]

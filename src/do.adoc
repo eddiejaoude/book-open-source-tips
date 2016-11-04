@@ -1,0 +1,13 @@
+=== Little & often
+
+Steady projects not only look more stable, but are generally more successful & are better for your health. Trying doing a little every week.
+
+=== README
+
+Documentation is usually left to last. At least have a README with some basic information, for example QuickStart.
+
+=== Plan ahead
+
+Create or check tasks today ready for tomorrow. Two benefits of this, allowing you tomorrow to immediately hit the ground running & to digest the tasks overnight as you might make some final tweaks.
+
+
