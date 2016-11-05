@@ -2,6 +2,10 @@ language: ruby
 rvm:
   - 2.2
 
+branches:
+  except:
+  - gh-pages
+
 before_script:
   - gem install asciidoctor
   - gem install --pre asciidoctor-pdf
@@ -12,6 +16,17 @@ script:
   - asciidoctor src/index.adoc -D build/
   - asciidoctor-pdf src/index.adoc -D build/
 
-after_script:
-  # push output to gh-page
+after_success:
   - ls -l build/
+  - |
+      if [ -n "$GITHUB_API_KEY" ]; then
+        cd "$TRAVIS_BUILD_DIR"
+        cd build/
+        rm .gitignore
+        git init
+        git checkout -b gh-pages
+        git add .
+        git -c user.name='travis' -c user.email='travis' commit -m init
+        git push -f -q https://eddiejaoude:$GITHUB_API_KEY@github.com/eddiejaoude/book-open-source-tips gh-pages &2>/dev/null
+        cd "$TRAVIS_BUILD_DIR"
+      fi
