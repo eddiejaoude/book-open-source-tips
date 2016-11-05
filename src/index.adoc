@@ -6,6 +6,7 @@ By Eddie Jaoude
 :twitter:  https://twitter.com/eddiejaoude
 :date:     2016
 :version:  0.1.0
+:docinfo1:
 
 [abstract]
 == Abstract
