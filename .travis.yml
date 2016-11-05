@@ -1,0 +1,11 @@
+before_script:
+  - apt-get install -y asciidoctor
+  - asciidoctor -v
+
+script:
+  # create html
+  - asciidoctor src/index.adoc -D build/
+
+after_script:
+  # push output to gh-page
+  - ls -l build/
