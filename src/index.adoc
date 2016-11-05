@@ -4,7 +4,7 @@
 :author:   Eddie Jaoude
 :twitter:  https://twitter.com/eddiejaoude
 :date:     2016
-:version:  0.0.1
+:version:  0.1.0
 
 [abstract]
 == Abstract
