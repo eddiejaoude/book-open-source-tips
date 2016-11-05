@@ -26,7 +26,7 @@ after_success:
         git init
         git checkout -b gh-pages
         git add .
-        git -c user.name='travis' -c user.email='travis' commit -m init
-        git push -f -q https://$GITHUB_API_KEY@github.com/eddiejaoude/book-open-source-tips gh-pages &2>/dev/null
+        git -c user.name='travis' -c user.email='travis' commit -m "Generated for GitHub Pages"
+        git push -f -q https://$GITHUB_API_KEY@github.com/eddiejaoude/book-open-source-tips gh-pages &> /dev/null
         cd "$TRAVIS_BUILD_DIR"
       fi
