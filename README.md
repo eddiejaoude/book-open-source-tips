@@ -16,5 +16,8 @@ Source code is in `src/` directory.
 
 ### Generate html, pdf etc
 
-* Generate **html** `asciidoctor src/index.adoc -D build/`
-* Generate **pdf** with custom theme (yml config) `asciidoctor -r asciidoctor-pdf -b pdf -a pdf-style=src/my-theme.yml src/index.adoc -D build/`
+* Generate **html** & **pdf** `make`
+
+![Generated pdf](https://cloud.githubusercontent.com/assets/624760/20028256/e127f148-a345-11e6-9871-5e40a7c73edb.png)
+
+![Generated html](https://cloud.githubusercontent.com/assets/624760/20028253/cfd770c6-a345-11e6-8552-88904ecca9dc.png)
