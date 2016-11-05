@@ -1,10 +1,12 @@
 before_script:
-  - apt-get install -y asciidoctor
+  - gem install asciidoctor
+  - gem install --pre asciidoctor-pdf
   - asciidoctor -v
+  - asciidoctor-pdf -v
 
 script:
-  # create html
   - asciidoctor src/index.adoc -D build/
+  - asciidoctor-pdf src/index.adoc -D build/
 
 after_script:
   # push output to gh-page
