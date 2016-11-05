@@ -16,6 +16,7 @@ before_script:
 script:
   - asciidoctor src/index.adoc -D build/
   - asciidoctor -r asciidoctor-pdf -b pdf src/index.adoc -D build/
+  - mv build/index.pdf build/open-source-tips.pdf
 
 after_success:
   - ls -l build/
