@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eddiejaoude/book-open-source-tips.svg?branch=master)](https://travis-ci.org/eddiejaoude/book-open-source-tips)
+
 # Open Source Tips
 
 Open Source book on Open Source Tips
