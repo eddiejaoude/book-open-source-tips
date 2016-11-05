@@ -17,4 +17,4 @@ Source code is in `src/` directory.
 ### Generate html, pdf etc
 
 * Generate **html** `asciidoctor src/index.adoc -D build/`
-* Generate **pdf** `asciidoctor -r asciidoctor-pdf -b pdf src/index.adoc -D build/`
+* Generate **pdf** with custom theme (yml config) `asciidoctor -r asciidoctor-pdf -b pdf -a pdf-style=src/my-theme.yml src/index.adoc -D build/`
