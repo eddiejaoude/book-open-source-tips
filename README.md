@@ -2,7 +2,7 @@
 
 # Open Source Tips
 
-Open Source book on Open Source Tips
+Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
 ## Dependencies
 
