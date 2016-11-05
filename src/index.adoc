@@ -1,4 +1,5 @@
 = Open Source Tips
+By Eddie Jaoude
 :toc:
 
 :author:   Eddie Jaoude
