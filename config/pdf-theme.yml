@@ -288,16 +288,22 @@ footer:
   # * {section-or-chapter-title}
   recto:
     #columns: "<50% =0% >50%"
-    right:
+#    right:
 #      content: '{page-number}'
       #content: '{section-or-chapter-title} | {page-number}'
       #content: '{document-title} | {page-number}'
-    center:
+#    center:
+#      content: '{document-title} | {page-number}'
+    left:
+      content: '{repo}'
+    right:
       content: '{document-title} | {page-number}'
   verso:
     #columns: $footer_recto_columns
-#    left:
-#      content: '{page-number}'
+    left:
+      content: '{repo}'
       #content: '{page-number} | {chapter-title}'
-    center:
+#    center:
+#      content: '{document-title} | {page-number}'
+    right:
       content: '{document-title} | {page-number}'
