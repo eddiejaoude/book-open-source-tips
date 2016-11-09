@@ -2,12 +2,50 @@
 
 Steady projects not only look more stable, but are generally more successful & are better for your health. Trying doing a little every week.
 
-=== README
+=== Readme file
 
-Documentation is usually left to last. At least have a README with some basic information, for example QuickStart.
+Documentation is usually left to last. At least have a `README.md` with some basic information, for example QuickStart.
 
 === Plan ahead
 
 Create or check tasks today ready for tomorrow. Two benefits of this, allowing you tomorrow to immediately hit the ground running & to digest the tasks overnight as you might make some final tweaks.
 
+=== Contribution file
 
+
+=== GitHub template files
+
+
+=== Respond to Issues & Pull Requests
+
+Always respond to Issues & Pull Requests in a timely fashion, ideally 48hours (even if it is with a comment of, I will take a look next week).
+
+
+=== Get a Prototype to your users quickly
+
+Feedback as soon as possible.
+
+=== Work at your optimal time
+
+=== Reviews
+
+Even if it is only you on the project, try to raise Pull Requests & get a friend to review it. This is so valuable.
+
+=== Never enough time
+
+We all have the same 24 hours in a day available to us. Its what you do with it that counts. Try to find a small amount of time per day, even 10 minutes when you are on the toilet - yes you heard me right "on the toilet". Multi tasking in that situation is possible, but trying to work while watching TV is very unproductive.
+
+=== 20% of the work for 80% of the benefit
+
+=== Keep momentum
+
+=== Versioning
+
+=== Commits
+
+Commits should contain a single item, then your commit message will be easier to write & describe what you have done. There are many benefits to this:
+
+* Looking back through the history will be clear & easy to understand
+ - if you want to find something
+ - undo / remove some work
+* Automate the changelog generation as part of your build for tag & package etc
