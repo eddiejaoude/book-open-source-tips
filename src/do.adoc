@@ -55,3 +55,7 @@ Automate everything! This helps lower the barrier to entry & increase repeatabil
 * When autonated tests are successful, deploy the application aka Continuous Delivery (CD)
 
 Note: This include database schema migrations etc
+
+=== Get a Prototype to your users quickly
+
+Feedback as soon as possible. Quick & dirty prototype in front of some of your users will give you instant feedback & direction. Remember to make it clear it is a prototype.
