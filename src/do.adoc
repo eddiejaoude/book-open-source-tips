@@ -34,3 +34,7 @@ Create or check tasks today ready for tomorrow. Two benefits of this, allowing y
 === Respond to Issues & Pull Requests
 
 Always respond to Issues & Pull Requests in a timely fashion, ideally 48hours (even if it is with a comment of, I will take a look next week).
+
+=== Reviews
+
+Even if it is only you on the project, try to raise Pull Requests & get a friend to review it. This is so valuable.
