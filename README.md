@@ -4,6 +4,8 @@
 
 Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
+All changes in `master` branch are automatically deployed to the above url.
+
 ## Dependencies
 
 * [Ascii Doctor](http://asciidoctor.org)
