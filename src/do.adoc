@@ -13,3 +13,12 @@ Your community needs to feel safe, diverse & included. Make sure you have a Code
 === GitHub template files
 
 Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
+
+=== Commits
+
+Commits should contain a single item, then your commit message will be easier to write & describe what you have done. There are many benefits to this:
+
+* Looking back through the history will be clear & easy to understand
+ - if you want to find something
+ - undo / remove some work
+* Automate the changelog generation as part of your build for tag & package etc
