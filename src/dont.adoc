@@ -5,3 +5,7 @@ Dont try to complete the project in a manic weekend, then ignore it for the next
 === God commits
 
 God commits or big bang commits are useless & confusing. These are terrible for you & the community for so many reasons.
+
+=== God Pull Requests
+
+Similar to "god commits", god pull requests are a bad idea. Reviewing god or big bang pull requests are not only annoying & painful, but leave room for skim reviewing & therefore mistakes. A pull request should be a single feature. No one ever complained that a Pull Request was too small.
