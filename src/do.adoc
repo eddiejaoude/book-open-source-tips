@@ -5,3 +5,7 @@ Documentation is usually left to last. At least have a `README.md` with some bas
 === Contribution file
 
 One of the main benefits of an Open Source project & its community is Contributions. Lower the barrier to entry with a `CONTRUBTION.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
+
+=== Code of Conduct
+
+Your community needs to feel safe, diverse & included. Make sure you have a Code of Conduct for your project & community. Read more about https://github.com/blog/2039-adopting-the-open-code-of-conduct[Open Code of Conducts]
