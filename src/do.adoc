@@ -30,3 +30,7 @@ Steady projects not only look more stable, but are generally more successful & a
 === Plan ahead
 
 Create or check tasks today ready for tomorrow. Two benefits of this, allowing you tomorrow to immediately hit the ground running & to digest the tasks overnight as you might make some final tweaks.
+
+=== Respond to Issues & Pull Requests
+
+Always respond to Issues & Pull Requests in a timely fashion, ideally 48hours (even if it is with a comment of, I will take a look next week).
