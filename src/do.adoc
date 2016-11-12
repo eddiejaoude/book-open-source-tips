@@ -9,3 +9,7 @@ One of the main benefits of an Open Source project & its community is Contributi
 === Code of Conduct
 
 Your community needs to feel safe, diverse & included. Make sure you have a Code of Conduct for your project & community. Read more about https://github.com/blog/2039-adopting-the-open-code-of-conduct[Open Code of Conducts]
+
+=== GitHub template files
+
+Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
