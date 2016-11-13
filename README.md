@@ -4,7 +4,15 @@
 
 Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
+Open Source is really dominating the industry. With so many projects out there from well known Organisations like Facebook, Twitter, NetFlix etc to passionate individuals around the world. How do you share your work & how do you decide who's work to use with so much choice.
+
+With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project from a technical & lower level, more exposure & marketing, testing & bug fixing etc.
+
 All changes in `master` branch are automatically deployed to the above url.
+
+## Code of Conduct
+
+* Read here [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Dependencies
 
