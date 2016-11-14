@@ -75,3 +75,7 @@ We all have the same 24 hours in a day available to us. Its what you do with it 
 === Make it open source (public) from day 1
 
 I do NOT understand people who say "I will make it public when it is finished". First of all, it will never be finished, secondly you then do not gain all the benefits from Open Source.
+
+=== Leave the codebase better than you found it
+
+Many code repositories (mostly Closed Source ones) go from bad to worse. Open Source projects do the complete opposite, because it is public most people try to leave the codebase better than they found it. Even the smallest improvements add up & really help - no improvement is too small.
