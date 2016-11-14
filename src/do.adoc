@@ -1,14 +1,14 @@
 === Readme file
 
-Documentation is usually left to last. At least have a `README.md` with some basic information, for example QuickStart.
+Documentation is usually left to last. Start every project with at least a `README.md` with some basic information, for example a QuickStart guide, if you change features or functionality, try at least update this with your commits.
 
 ==== Code blocks
 
-Use code highlighting within code blocks to make it easier to read.
+Use code highlighting within code blocks in documentation to make it easier to read.
 
 === Contribution file
 
-One of the main benefits of an Open Source project & its community is Contributions. Lower the barrier to entry with a `CONTRUBTION.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
+One of the main benefits of an Open Source project & its community is Contributions. Lower the barrier to entry with a `CONTRIBUTORS.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
 
 === Code of Conduct
 
@@ -20,36 +20,36 @@ Issue & Pull Request templates really help keeping the project consistent & remi
 
 === Commits
 
-Commits should contain a single item, then your commit message will be easier to write & describe what you have done. There are many benefits to this:
+Commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
 
 * Looking back through the history will be clear & easy to understand
  - if you want to find something
  - undo / remove some work
 * Automate the changelog generation as part of your build for tag & package etc
 
-=== Little & often
+=== Little and often
 
 Steady projects not only look more stable, but are generally more successful & are better for your health. Trying doing a little every week.
 
 === Plan ahead
 
-Create or check tasks today ready for tomorrow. Two benefits of this, allowing you tomorrow to immediately hit the ground running & to digest the tasks overnight as you might make some final tweaks.
+Create or check tasks today ready for tomorrow. There are two benefits of this, allowing you tomorrow to immediately hit the ground running and to digest the tasks overnight as you might make some final tweaks.
 
 === Issues / Tasks
 
-Keep these small. Tackling a large piece of work is always daunting & more difficult to find the time. The smaller the tasks, the more likely it is to be done & the lower risk it will be. But remember the task still needs to provide value to the project.
+Keep these small. Tackling a large piece of work is always daunting and more difficult to find the time. The smaller the tasks, the more likely it is to be done and the lower risk it will be. But remember the task still needs to provide value to the project.
 
-=== Respond to Issues & Pull Requests
+=== Respond to Issues and Pull Requests
 
-Always respond to Issues & Pull Requests in a timely fashion, ideally 48hours (even if it is with a comment of, I will take a look next week).
+Always respond to Issues and Pull Requests in a timely fashion, ideally within 48 hours (even if it is with a comment acknowledging you have at least read the issue).
 
 === Pull Requests
 
-If you spent the time doing the work, make sure you add a description to your your Pull Request to make it easier for the Review to review your work. Raise an Issue first so a plan of action can be discussed before you begin the work.
+If you spent the time doing the work, make sure you add a description to your your Pull Request to make it easier for the reviewer to digest your work. Raise an Issue first so a plan of action can be discussed before you begin the work and to remind yourself of the goals set out in that task.
 
 === Reviews
 
-Even if it is only you on the project, try to raise Pull Requests & get a friend to review it. This is so valuable.
+Even if it is only you on the project, try to raise Pull Requests & get a friend to review it. This approach is invaluable as a second pair of eyes often picks up oversights.
 
 === Automated tests & Continuous Integration
 
@@ -60,21 +60,21 @@ Automate everything! This helps lower the barrier to entry & increase repeatabil
  - Integration tests are great for the touch points
  - End-to-end tests are great for full appliaction testing & simulate the user
 * Run the automated tests on Continuous Integration (CI) (for example http://travis-ci.org[TravisCI])
-* When autonated tests are successful, deploy the application aka Continuous Delivery (CD)
+* When automated tests are successful, deploy the application aka Continuous Delivery (CD)
 
-Note: This include database schema migrations etc
+Note: This includes database schema migrations, asset building and anything that is required by the end product
 
 === Get a Prototype to your users quickly
 
-Feedback as soon as possible. Quick & dirty prototype in front of some of your users will give you instant feedback & direction. Remember to make it clear it is a prototype.
+Get feedback as soon as possible. Quick and dirty prototypes in front of some of your users will give you instant feedback and direction. Remember to make it clear it is a prototype.
 
 === Work at your optimal time
 
-People work better at different times of the day & night. Work at your most efficient & optimal time. Even if that is 11pm at night or 4am, try utilise your most productive time.
+People work better at different times of the day and night so find your most efficient and optimal time. Even if that is 11pm at night or 4am, try utilise your most productive time.
 
 === Never enough time
 
-We all have the same 24 hours in a day available to us. Its what you do with it that counts. Try to find a small amount of time per day, even 10 minutes when you are on the toilet - yes you heard me right "on the toilet". Multi tasking in that situation is possible, but trying to work while watching TV is very unproductive.
+We all have the same 24 hours in a day available to us. It's what you do with it that counts. Try to find a small amount of time per day, even 10 minutes when you are on the toilet - yes you heard me right "on the toilet". Multi tasking in that situation is possible, but trying to work while watching TV is very unproductive.
 
 === Make it open source (public) from day 1
 
@@ -82,4 +82,4 @@ I do NOT understand people who say "I will make it public when it is finished". 
 
 === Leave the codebase better than you found it
 
-Many code repositories (mostly Closed Source ones) go from bad to worse. Open Source projects do the complete opposite, because it is public most people try to leave the codebase better than they found it. Even the smallest improvements add up & really help - no improvement is too small.
+Many code repositories (mostly Closed Source ones) go from bad to worse. Open Source projects tend to do the complete opposite due to it being in the public eye. Even the smallest of improvements add up and really help - no improvement is too small.
