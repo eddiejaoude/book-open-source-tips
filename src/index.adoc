@@ -12,23 +12,23 @@ By Eddie Jaoude
 [abstract]
 == Abstract
 
-This book are tips of DOs & DONT of Open Source software.
+This book contains tips for DOs & DONTs of Open Source software.
 
 [preface]
 == Preface
 
-Open Source is really dominating the industry. With so many projects out there from well known Organisations like Facebook, Twitter, NetFlix etc to passionate individuals around the world. How do you share your work & how do you decide who's work to use with so much choice.
+Open Source is dominates the software industry. With so many projects out there from well known organisations like Facebook, Twitter, NetFlix etc to passionate individuals around the world. With so much choice, how do you share your work & how do you decide who's work to use?
 
-As with technology that keep on changing, this book will need continually updating, suggestions & pull requests are welcome. Currently on version v{version}.
+As with technology that keep on changing, this book will need continual updating. Suggestions & pull requests are welcome. Currently on version v{version}.
 
 Source Repository is on GitHub {repo}
 
 <<<
 == Introduction
 
-With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project from a technical & lower level, more exposure & marketing, testing & bug fixing etc.
+With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project, from a higher overview or deeper technical level, more exposure & marketing, testing & bug fixing etc.
 
-TIP: This book will continually be updated, please check the version {version}. Any question please contact the author {author} on {twitter}.
+TIP: This book will be continually updated, please check the version {version}. Any question please contact the author {author} on {twitter}.
 
 <<<
 == DOs
