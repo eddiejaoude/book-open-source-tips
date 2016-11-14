@@ -4,9 +4,9 @@
 
 Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
-Open Source is really dominating the industry. With so many projects out there from well known Organisations like Facebook, Twitter, Netflix etc to passionate individuals around the world. How do you share your work & how do you decide who's work to use with so much choice.
+Open Source dominates the software industry. With so many projects out there, from well known organisations like Facebook, Twitter, Netflix etc to passionate individuals around the world. With so much choice, how do you share your work & how do you decide who's work to use?
 
-With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project from a technical & lower level, more exposure & marketing, testing & bug fixing etc.
+With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project, from a higher overview to a deeper technical level, more exposure & marketing, testing & bug fixing etc.
 
 All changes in `master` branch are automatically deployed to the above url.
 
