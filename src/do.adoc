@@ -31,6 +31,10 @@ Steady projects not only look more stable, but are generally more successful & a
 
 Create or check tasks today ready for tomorrow. Two benefits of this, allowing you tomorrow to immediately hit the ground running & to digest the tasks overnight as you might make some final tweaks.
 
+=== Issues / Tasks
+
+Keep these small. Tackling a large piece of work is always daunting & more difficult to find the time. The smaller the tasks, the more likely it is to be done & the lower risk it will be. But remember the task still needs to provide value to the project.
+
 === Respond to Issues & Pull Requests
 
 Always respond to Issues & Pull Requests in a timely fashion, ideally 48hours (even if it is with a comment of, I will take a look next week).
