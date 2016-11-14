@@ -4,8 +4,7 @@ Documentation is usually left to last. At least have a `README.md` with some bas
 
 ==== Code blocks
 
-Use code highlighting with code blocks this makes it easier to read. 
-
+Use code highlighting within code blocks to make it easier to read.
 
 === Contribution file
 
