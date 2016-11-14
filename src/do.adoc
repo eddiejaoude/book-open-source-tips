@@ -2,6 +2,11 @@
 
 Documentation is usually left to last. At least have a `README.md` with some basic information, for example QuickStart.
 
+==== Code blocks
+
+Use code highlighting with code blocks this makes it easier to read. 
+
+
 === Contribution file
 
 One of the main benefits of an Open Source project & its community is Contributions. Lower the barrier to entry with a `CONTRUBTION.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
