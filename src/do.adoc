@@ -18,6 +18,10 @@ Your community needs to feel safe, diverse & included. Make sure you have a Code
 
 Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
 
+=== Licensing
+
+It is not required to select a license, however it is very useful to do so. GitHub have created an informational website to help you choose a http://choosealicense.com[license]
+
 === Commits
 
 Commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
