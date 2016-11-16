@@ -9,3 +9,7 @@ God commits or big bang commits are useless & confusing. These are terrible for 
 === God Pull Requests
 
 Similar to "god commits", god pull requests are a bad idea. Reviewing god or big bang pull requests are not only annoying & painful, but leave room for skim reviewing & therefore mistakes. A pull request should be a single feature. No one ever complained that a Pull Request was too small.
+
+=== CV Driven Development
+
+Most of us have heard of Test Driven Development (TDD). Do not fall in to the trap of CV Driven Development (CVDD). It is good to push your skills with new technology but do a little at a time to reduce the risk. Do not try every new technology you want to learn on the same project, this is very high risk, with the mostly likely outcome of little result & therefore frustration. Approximately 10% per of new technology per project is a good & safe amount.
