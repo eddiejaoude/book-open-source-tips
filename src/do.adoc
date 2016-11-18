@@ -16,9 +16,7 @@ include::do/do-little-and-often.adoc[]
 
 include::do/do-plan-ahead.adoc[]
 
-=== Issues / Tasks
-
-Keep these small. Tackling a large piece of work is always daunting and more difficult to find the time. The smaller the tasks, the more likely it is to be done and the lower risk it will be. But remember the task still needs to provide value to the project.
+include::do/do-issue-task.adoc[]
 
 === Respond to Issues and Pull Requests
 
