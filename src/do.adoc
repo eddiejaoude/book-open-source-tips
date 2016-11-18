@@ -12,9 +12,7 @@ include::do/do-licensing.adoc[]
 
 include::do/do-git-commit.adoc[]
 
-=== Little and often
-
-Steady projects not only look more stable, but are generally more successful & are better for your health. Trying doing a little every week.
+include::do/do-little-and-often.adoc[]
 
 === Plan ahead
 
