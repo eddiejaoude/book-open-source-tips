@@ -30,13 +30,7 @@ include::do/do-prototyping.adoc[]
 
 include::do/do-optimal-time.adoc[]
 
-=== Never enough time
-
-We all have the same 24 hours in a day available to us. It's what you do with it that counts. Try to find a small amount of time per day, even 10 minutes when you are on the toilet - yes you heard me right "on the toilet". Multi tasking in that situation is possible, but trying to work while watching TV is very unproductive.
-
-=== Make it open source (public) from day 1
-
-I do NOT understand people who say "I will make it public when it is finished". First of all, it will never be finished, secondly you then do not gain all the benefits from Open Source.
+include::do/do-not-enough-time.adoc[]
 
 === Leave the codebase better than you found it
 
