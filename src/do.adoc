@@ -1,8 +1,6 @@
 include::do/do-readme.adoc[]
 
-=== Code blocks
-
-Use code highlighting within code blocks in documentation to make it easier to read.
+include::do/do-code-block.adoc[]
 
 === Contribution file
 

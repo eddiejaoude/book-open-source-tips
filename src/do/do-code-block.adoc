@@ -1,0 +1,3 @@
+=== Code block
+
+Use code highlighting within code blocks in documentation to make it easier to read.
