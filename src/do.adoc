@@ -28,9 +28,7 @@ include::do/do-automation.adoc[]
 
 include::do/do-prototyping.adoc[]
 
-=== Work at your optimal time
-
-People work better at different times of the day and night so find your most efficient and optimal time. Even if that is 11pm at night or 4am, try utilise your most productive time.
+include::do/do-optimal-time.adoc[]
 
 === Never enough time
 
