@@ -24,18 +24,7 @@ include::do/do-pull-request.adoc[]
 
 include::do/do-review.adoc[]
 
-=== Automated tests & Continuous Integration
-
-Automate everything! This helps lower the barrier to entry & increase repeatability.
-
-* Automated tests have many benefits & give confidence in the state & quality of the application:
- - Unit tests are great for design & architecture of functionality
- - Integration tests are great for the touch points
- - End-to-end tests are great for full appliaction testing & simulate the user
-* Run the automated tests on Continuous Integration (CI) (for example http://travis-ci.org[TravisCI])
-* When automated tests are successful, deploy the application aka Continuous Delivery (CD)
-
-Note: This includes database schema migrations, asset building and anything that is required by the end product
+include::do/do-automation.adoc[]
 
 === Get a Prototype to your users quickly
 
