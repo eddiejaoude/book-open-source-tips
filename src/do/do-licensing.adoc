@@ -1,0 +1,3 @@
+=== Licensing
+
+It is not required to select a license, however it is very useful to do so. GitHub have created an informational website to help you choose a http://choosealicense.com[license]

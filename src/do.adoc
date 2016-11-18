@@ -8,9 +8,7 @@ include::do/do-code-of-conduct.adoc[]
 
 include::do/do-github-template-files.adoc[]
 
-=== Licensing
-
-It is not required to select a license, however it is very useful to do so. GitHub have created an informational website to help you choose a http://choosealicense.com[license]
+include::do/do-licensing.adoc[]
 
 === Commits
 
