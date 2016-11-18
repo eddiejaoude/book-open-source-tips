@@ -10,14 +10,7 @@ include::do/do-github-template-files.adoc[]
 
 include::do/do-licensing.adoc[]
 
-=== Commits
-
-Commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
-
-* Looking back through the history will be clear & easy to understand
- - if you want to find something
- - undo / remove some work
-* Automate the changelog generation as part of your build for tag & package etc
+include::do/do-git-commit.adoc[]
 
 === Little and often
 

@@ -1,0 +1,8 @@
+=== Git commit
+
+Git commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
+
+* Looking back through the history will be clear & easy to understand
+ - if you want to find something
+ - undo / remove some work
+* Automate the changelog generation as part of your build for tag & package etc
