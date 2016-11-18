@@ -32,6 +32,4 @@ include::do/do-optimal-time.adoc[]
 
 include::do/do-not-enough-time.adoc[]
 
-=== Leave the codebase better than you found it
-
-Many code repositories (mostly Closed Source ones) go from bad to worse. Open Source projects tend to do the complete opposite due to it being in the public eye. Even the smallest of improvements add up and really help - no improvement is too small.
+include::do/do-codebase-improvements.adoc[]
