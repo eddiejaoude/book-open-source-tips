@@ -1,8 +1,7 @@
 include::dont/dont-big-bang-project.adoc[]
 
-=== God commits
+include::dont/dont-god-commit.adoc[]
 
-God commits or big bang commits are useless & confusing. These are terrible for you & the community for so many reasons.
 
 === God Pull Requests
 
