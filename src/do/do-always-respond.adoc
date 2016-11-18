@@ -1,0 +1,3 @@
+=== Always respond - Issue and Pull Request
+
+Always respond to Issue and Pull Request in a timely fashion, ideally within 48 hours (even if it is with a comment acknowledging you have at least read the issue).

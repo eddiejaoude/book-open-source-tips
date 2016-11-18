@@ -18,9 +18,7 @@ include::do/do-plan-ahead.adoc[]
 
 include::do/do-issue-task.adoc[]
 
-=== Respond to Issues and Pull Requests
-
-Always respond to Issues and Pull Requests in a timely fashion, ideally within 48 hours (even if it is with a comment acknowledging you have at least read the issue).
+include::do/do-always-respond.adoc[]
 
 === Pull Requests
 
