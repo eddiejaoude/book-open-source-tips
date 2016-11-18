@@ -22,7 +22,7 @@ All changes in `master` branch are automatically deployed to the above url.
 
 ## Code of Conduct
 
-* Read here [Code of Conduct](CODE_OF_CONDUCT.md)
+* Read here [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 
 ## Dependencies
 
