@@ -2,10 +2,7 @@ include::dont/dont-big-bang-project.adoc[]
 
 include::dont/dont-god-commit.adoc[]
 
-
-=== God Pull Requests
-
-Similar to "god commits", god pull requests are a bad idea. Reviewing god or big bang pull requests are not only annoying & painful, but leave room for skim reviewing & therefore mistakes. A pull request should be a single feature. No one ever complained that a Pull Request was too small.
+include::dont/dont-god-pull-request.adoc[]
 
 === CV Driven Development
 
