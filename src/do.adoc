@@ -1,8 +1,6 @@
-=== Readme file
+include::do/do-readme.adoc[]
 
-Documentation is usually left to last. Start every project with at least a `README.md` with some basic information, for example a QuickStart guide, if you change features or functionality, try at least update this with your commits.
-
-==== Code blocks
+=== Code blocks
 
 Use code highlighting within code blocks in documentation to make it easier to read.
 
