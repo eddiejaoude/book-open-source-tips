@@ -4,9 +4,7 @@ include::do/do-code-block.adoc[]
 
 include::do/do-contribution-file.adoc[]
 
-=== Code of Conduct
-
-Your community needs to feel safe, diverse & included. Make sure you have a Code of Conduct for your project & community. Read more about https://github.com/blog/2039-adopting-the-open-code-of-conduct[Open Code of Conducts]
+include::do/do-code-of-conduct.adoc[]
 
 === GitHub template files
 
