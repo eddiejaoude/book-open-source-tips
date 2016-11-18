@@ -6,9 +6,7 @@ include::do/do-contribution-file.adoc[]
 
 include::do/do-code-of-conduct.adoc[]
 
-=== GitHub template files
-
-Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
+include::do/do-github-template-files.adoc[]
 
 === Licensing
 

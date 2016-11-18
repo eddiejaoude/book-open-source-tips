@@ -1,0 +1,3 @@
+=== GitHub template files
+
+Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
