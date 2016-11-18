@@ -4,9 +4,19 @@
 
 Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
-Open Source dominates the software industry. With so many projects out there, from well known organisations like Facebook, Twitter, Netflix etc to passionate individuals around the world. With so much choice, how do you share your work & how do you decide who's work to use?
+This book contains some common DOs & DON'Ts for Open Source software.
 
-With so many popular Open Source projects & many people contributing to Open Source, it would be beneficial to capture the pros & cons. Open Source not only benefits the community but also the authors as they get feedback on their project, from a higher overview to a deeper technical level, more exposure & marketing, testing & bug fixing etc.
+The Open Source community is thriving. Each day the number of Open Source projects grows, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
+
+As the ancient proverb goes, _Time and tide [and technology] wait for no man_. And to the best of our ability, neither will this book. Remember to check the version number for updates!
+
+We would love your help in keeping this book updated. Your comments, suggestions and pull requests are most welcome.
+
+Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
+
+While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, plus some pointers for aspiring Open Source developers.
+
+[Let's dive right in](https://eddiejaoude.github.io/book-open-source-tips/).
 
 All changes in `master` branch are automatically deployed to the above url.
 
