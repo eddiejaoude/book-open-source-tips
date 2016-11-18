@@ -4,6 +4,4 @@ include::dont/dont-god-commit.adoc[]
 
 include::dont/dont-god-pull-request.adoc[]
 
-=== CV Driven Development
-
-Most of us have heard of Test Driven Development (TDD). Do not fall in to the trap of CV Driven Development (CVDD). It is good to push your skills with new technology but do a little at a time to reduce the risk. Do not try every new technology you want to learn on the same project, this is very high risk, with the mostly likely outcome of little result & therefore frustration. Approximately 10% per of new technology per project is a good & safe amount.
+include::dont/dont-cv-driven-development.adoc[]
