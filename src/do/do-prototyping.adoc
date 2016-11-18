@@ -1,0 +1,3 @@
+=== Prototyping - Get a prototype to your users quickly
+
+Get feedback as soon as possible. Quick and dirty prototypes in front of some of your users will give you instant feedback and direction. Remember to make it clear it is a prototype.

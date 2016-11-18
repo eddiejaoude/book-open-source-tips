@@ -26,9 +26,7 @@ include::do/do-review.adoc[]
 
 include::do/do-automation.adoc[]
 
-=== Get a Prototype to your users quickly
-
-Get feedback as soon as possible. Quick and dirty prototypes in front of some of your users will give you instant feedback and direction. Remember to make it clear it is a prototype.
+include::do/do-prototyping.adoc[]
 
 === Work at your optimal time
 
