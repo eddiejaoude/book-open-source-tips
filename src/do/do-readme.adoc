@@ -1,3 +1,3 @@
 === Readme file
 
-Documentation is usually left to last. Start every project with at least a `README.md` with some basic information, for example a QuickStart guide, if you change features or functionality, try at least update this with your commits.
+Documentation is usually left until last. Start every project with at least a `README.md` with some basic information, for example a QuickStart guide, if you change features or functionality, try at least update this with your commits.
