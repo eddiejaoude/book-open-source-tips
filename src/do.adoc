@@ -1,4 +1,4 @@
-== This is a list of things you should do in an open source projec
+== This is a list of things you should do in an open source project
 
 include::do/do-readme.adoc[]
 
