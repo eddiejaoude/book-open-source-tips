@@ -2,11 +2,12 @@
 By Eddie Jaoude
 :toc:
 
-:author:   Eddie Jaoude
-:twitter:  https://twitter.com/eddiejaoude
-:date:     2016
-:version:  0.1.0
-:repo:     https://github.com/eddiejaoude/book-open-source-tips
+:author:    Eddie Jaoude
+:twitter:   https://twitter.com/eddiejaoude
+:date:      2016
+:version:   0.1.0
+:repo:      https://github.com/eddiejaoude/book-open-source-tips
+:imagesdir: images
 :docinfo1:
 
 [abstract]

@@ -1,4 +1,10 @@
-all: html pdf
+all: reset assets html pdf
+
+reset:
+	rm -fr build/*
+
+assets:
+	cp -r src/images/ build/images/
 
 html:
 	asciidoctor src/index.adoc -D build/
