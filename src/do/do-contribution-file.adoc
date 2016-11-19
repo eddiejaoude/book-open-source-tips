@@ -1,3 +1,3 @@
 === Contribution file
 
-One of the main benefits of an Open Source project & its community contributions. Lower the barrier to entry with a `CONTRIBUTORS.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
+One of the main benefits of an Open Source project & its community contributions. Lower the barrier to entry with a `CONTRIBUTING.md` file in the root of your Open Source project. Read more about https://github.com/blog/1184-contributing-guidelines[GitHub Contribution file]
