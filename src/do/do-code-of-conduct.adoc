@@ -1,3 +1,3 @@
 === Code of Conduct
 
-Your community needs to feel safe, diverse & inclusive. Make sure you have a Code of Conduct for your project & community. Read more about https://github.com/blog/2039-adopting-the-open-code-of-conduct[Open Code of Conducts]
+Your community needs to feel safe, diverse & inclusive. Make sure you have a Code of Conduct for your project & community. Read more about http://contributor-covenant.org[Contributor Covenant]
