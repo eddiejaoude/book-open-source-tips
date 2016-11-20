@@ -1,3 +1,5 @@
 === Issue / Task
 
 Keep these small. Tackling a large piece of work is always daunting and more difficult to find the time. The smaller the tasks, the more likely it is to be done and the lower risk it will be. But remember the task still needs to provide value to the project.
+
+Include diagrams, screenshots, anything visual to help describe the issue & changes.
