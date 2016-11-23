@@ -1,3 +1,5 @@
 === Codebase improvements - Leave the codebase better than you found it
 
-Many code repositories (mostly Closed Source ones) go from bad to worse. On the other hand, Open Source projects tend to do the complete opposite due to it being in the public eye. Even the smallest of improvements add up and really help - *no improvement is too small*.
+Many code repositories (mostly Closed Source ones) go from bad to worse. On the other hand, Open Source projects tend to do the complete opposite due to it being in the public eye. Even the smallest of improvements add up and really help.
+
+TIP: No improvement is too small. Make it better.

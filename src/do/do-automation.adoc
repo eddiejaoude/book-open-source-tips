@@ -10,4 +10,4 @@
 * Run the automated tests on Continuous Integration (CI) (for example http://travis-ci.org[TravisCI]) after someone has pushed their code changes to a feature branch
 * When automated tests are successful, deploy the application aka Continuous Delivery (CD)
 
-Note: This includes database schema migrations, asset building and anything that is required by the end product
+NOTE: This includes database schema migrations, asset building and anything that is required by the end product
