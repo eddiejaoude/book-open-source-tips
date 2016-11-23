@@ -1,3 +1,14 @@
 === GitHub template files
 
 Issue & Pull Request templates really help keeping the project consistent & reminds people not to leave out certain useful information.
+
+[quote, GitHub, GitHub Issue Template]
+To add an Issue template to a repository create a file called ISSUE_TEMPLATE in the root directory. A file extension is optional, but Markdown files (.md) are supported. Markdown support makes it easy to add things like headings, links, @-mentions, and task lists to your templates.
+
+[quote, GitHub, GitHub Pull Request Template]
+Pull Request templates follows the same pattern: add a file called PULL_REQUEST_TEMPLATE to the root directory of your repository.
+
+[quote, GitHub, GitHub Hidden Directory for Templates]
+If you're worried about the added clutter in the root directory of your project, we also added support for a .github/ folder. You can put CONTRIBUTING.md, ISSUE_TEMPLATE.md, and PULL_REQUEST_TEMPLATE.md files in .github/ and everything will work as expected.
+
+https://help.github.com/articles/helping-people-contribute-to-your-project/[Full details from GitHub] for helping people contribute to your project
