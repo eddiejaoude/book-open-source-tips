@@ -6,3 +6,13 @@ Git commits should be small and atomic, be it a single change or small feature. 
  - if you want to find something
  - undo / remove some work
 * Automate the changelog generation as part of your build for tag & package etc
+
+==== Commit message
+
+* Limit the subject line to `50` characters
+* Do not end the subject line with a period `.`.
+* If more than `50` characters use the body (description)
+* Wrap the body at `72` characters.
+* Use the body to explain `why` not `how`, this can been seen in the code
+
+More information http://chris.beams.io/posts/git-commit/[Git Commit]
