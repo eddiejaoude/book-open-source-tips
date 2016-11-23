@@ -1,3 +1,25 @@
 === Licensing
 
-It is not required to select a license, however it is very useful to do so. GitHub have created an informational website to help you choose a http://choosealicense.com[license]
+It is not required to select a license, however by doing so, you are selecting "No License" which will default you to the https://help.github.com/articles/github-terms-of-service/[T&Cs] of GitHub. GitHub have created a great informational website to help you choose a http://choosealicense.com[license]
+
+Examples below from "Choose an open source license" link above:
+
+==== MIT license
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
+
+NOTE: jQuery, .NET Core, and Rails use the MIT License.
+
+==== Apache License 2.0
+The Apache License 2.0 is a permissive license similar to the MIT License, but also provides an express grant of patent rights from contributors to users.
+
+NOTE: Android, Apache, and Swift use the Apache License 2.0.
+
+==== GNU GPLv3 License
+The GNU GPLv3 is a copyleft license that requires anyone who distributes your code or a derivative work to make the source available under the same terms, and also provides an express grant of patent rights from contributors to users.
+
+NOTE: Bash, GIMP, and Privacy Badger use the GNU GPLv3.
+
+==== No License
+When you make a creative work (which includes code), the work is under exclusive copyright by default. Unless you include a license that specifies otherwise, nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation. Once the work has other contributors (each a copyright holder), “nobody” starts including you.
+
+CAUTION: As a consumer, if you find software that doesn’t have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.
