@@ -2,7 +2,7 @@
 
 It is not required to select a license, however by doing so, you are selecting "No License" which will default you to the https://help.github.com/articles/github-terms-of-service/[T&Cs] of GitHub. GitHub have created a great informational website to help you choose a http://choosealicense.com[license]
 
-Examples below from "Choose an open source license" link above:
+Examples below from http://choosealicense.com["Choose an open source license"]:
 
 ==== MIT license
 The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
