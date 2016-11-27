@@ -1,3 +1,62 @@
 === Readme file
 
 Documentation is usually left to last. Start every project with at least a `README.md` with basic information, for example a description & quickstart guide, if you change features or functionality, try at least to update this with your commits.
+
+Example README.md
+
+```
+# Name of Project
+
+Include any project badges (e.g. CI) here at the top.
+
+Description of project & its goals.
+
+Also include what it does not do.
+
+
+## Screenshots
+
+Nothing says a lot than screenshots.
+
+
+## Dependencies
+
+Any dependencies required by the project.
+
+
+## Installation
+
+How to install on Mac...
+
+How to install on Linux...
+
+How to install on Windows...
+
+
+## Usage
+
+How to use the project
+
+
+## Contribution SetUp
+
+If people would like to contribute, what steps should they take.
+
+Overview here and a link to the `CONTRIBUTION.md` file with more details
+
+
+## Code of Conduct
+
+Overview of Code of Conduct, with link to `CODE_OF_CONDUCT.MD`
+
+
+## Change log / Release history
+
+Major version & breaking changes
+
+
+## Meta data
+
+Any other useful information.
+
+```
