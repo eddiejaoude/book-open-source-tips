@@ -3,3 +3,6 @@
 If you spent the time doing the work, make sure you add a description to your your Pull Request to make it easier for the reviewer to digest your work. Raise an Issue first so a plan of action can be discussed before you begin the work and to remind yourself of the goals set out in that task.
 
 Pull Requests should be linked to the original Issue it is trying to solve. This can be done with using `#` followed by the *Issue No*, e.g. `#123`. The Issue description will contain the information before, therefore the Pull Request description should contain the information after the changes. Include visual material too, for example diagrams & screenshots.
+
+Remember, keep it small. For example if your changes contains a feature or bug fix & code styling changes, these should be in separate Pull Requests.
+
