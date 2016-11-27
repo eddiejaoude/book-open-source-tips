@@ -6,3 +6,4 @@ Pull Requests should be linked to the original Issue it is trying to solve. This
 
 Remember, keep it small. For example if your changes contains a feature or bug fix & code styling changes, these should be in separate Pull Requests.
 
+Multiple commits in a Pull Request highlight the creation steps of the Pull Request. Do not try to do everything in a single commit.
