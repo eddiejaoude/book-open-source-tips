@@ -16,3 +16,5 @@ Git commits should be small and atomic, be it a single change or small feature. 
 * Use the body to explain `why` not `how`, this can been seen in the code
 
 More information http://chris.beams.io/posts/git-commit/[Git Commit]
+
+TIP: Before doing the commit, check the `git diff` to make sure you are not committing anything you don not want to or should not be.
