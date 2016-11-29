@@ -1,3 +1,5 @@
 === Review
 
 Even if it is only you on the project, try to raise Pull Requests & get a friend to review it. This approach is invaluable as a second pair of eyes often picks up oversights.
+
+TIP: Even simple text changes might make sense to you but not to someone else. Review everything!
