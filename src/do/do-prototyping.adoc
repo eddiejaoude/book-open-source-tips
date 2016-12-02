@@ -1,3 +1,5 @@
 === Prototyping - Get a prototype to your users quickly
 
-Get feedback as soon as possible. Quick and dirty prototypes in front of some of your users will give you instant feedback and direction. Remember to make it clear it is a prototype.
+Get feedback as soon as possible. Get a quick and dirty prototypes in front of some of your users will give you instant feedback and direction. Remember to make it clear it is a prototype.
+
+TIP: When building a prototype, the technology is less important to choose for longevity but for speed & possibly to test out potential technology solution.
