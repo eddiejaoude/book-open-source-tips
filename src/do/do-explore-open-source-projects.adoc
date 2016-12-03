@@ -1,0 +1,23 @@
+=== Explore open source projects
+
+Remember to explore other open source projects out there to see how other projects have been successfully managed, and what their outcomes looked like.
+
+Here are 10 examples of open source projects to start you off:
+
+ - https://24pullrequests.com/projects[24 Pull Requests]
+  - https://github.com/dwyl[dwyl - do what you love]
+  - https://github.com/foundersandcoders[Founders & Coders]
+  - https://github.com/HackBrexits[Hack Brexit]
+  - https://github.com/WeRockTech[We Rock Tech]
+  - https://github.com/womenhackfornonprofits[Women Who Hack For Non Profits]
+  - https://github.com/elixirkoans/elixir-koans[Elixir Koans]
+  - https://github.com/codebar[Codebar]
+  - https://github.com/rails-girls-summer-of-code[Rails Girls Summer of Code]
+  - https://github.com/voteamerica/voteamerica.github.io[Vote America]
+
+
+
+
+
+
+TIP: The more open source projects you have explored, the more you'll see what practices have worked and what have not. This will equip you with more knowledge on how you'd like to run your project in practice, based on existing prpjects you've come across.
