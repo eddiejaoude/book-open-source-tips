@@ -4,6 +4,8 @@ include::do/do-code-block.adoc[]
 
 include::do/do-contribution-file.adoc[]
 
+include::do/do-explore-open-source-projects.adoc[]
+
 include::do/do-code-of-conduct.adoc[]
 
 include::do/do-github-template-files.adoc[]
