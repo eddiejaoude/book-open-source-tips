@@ -44,3 +44,7 @@ include::do.adoc[]
 == DON'Ts
 
 include::dont.adoc[]
+
+== Appendix
+
+include::appendix.adoc[]
