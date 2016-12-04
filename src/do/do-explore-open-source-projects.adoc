@@ -7,7 +7,7 @@ Here are 10 examples of open source projects to start you off:
 - https://24pullrequests.com/projects[24 Pull Requests]
 - https://github.com/dwyl[dwyl - do what you love]
 - https://github.com/foundersandcoders[Founders & Coders]
-- https://github.com/HackBrexits[Hack Brexit]
+- https://github.com/HackBrexit[Hack Brexit]
 - https://github.com/WeRockTech[We Rock Tech]
 - https://github.com/womenhackfornonprofits[Women Who Hack For Non Profits]
 - https://github.com/elixirkoans/elixir-koans[Elixir Koans]
