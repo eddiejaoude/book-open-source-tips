@@ -1,4 +1,3 @@
-Please remove items in the right column: 
 
 | Type | Bug / Idea |
 | :--- | :--- |
