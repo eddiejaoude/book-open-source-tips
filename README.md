@@ -18,7 +18,7 @@ While this abundant ecosystem has been of huge benefit to the whole industry, it
 
 [Let's dive right in](https://eddiejaoude.github.io/book-open-source-tips/).
 
-All changes in `master` branch are automatically deployed to the above url.
+All changes in `master` branch are automatically deployed to the above URL.
 
 ## Code of Conduct
 
