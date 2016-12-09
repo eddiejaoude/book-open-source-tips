@@ -30,13 +30,37 @@ All changes in `master` branch are automatically deployed to the above URL.
 
 ## Quick Start
 
+### Install
+
+* AsciiDoctor (html)
+
+```bash
+gem install asciidoctor
+```
+
+* AciiDoctor (pdf)
+
+```bash
+gem install --pre asciidoctor-pdf
+```
+
+* Atom preview [plugin](https://atom.io/packages/asciidoc-preview) (optional)
+
+```bash
+apm install asciidoc-preview
+```
+
 ### Source code
 
 Source code is in `src/` directory.
 
 ### Generate html, pdf etc
 
-* Generate **html** & **pdf** `make`
+* To generate the output in **html** & **pdf**: 
+
+```bash
+make
+```
 
 ![Generated pdf](https://cloud.githubusercontent.com/assets/624760/20028256/e127f148-a345-11e6-9871-5e40a7c73edb.png)
 
