@@ -5,13 +5,13 @@
 
 |TDD
 |Test Driven Development
-|---
+|GOOD!
 
 |BDD
 |Behavioural Driven Development
-|---
+|GOOD!
 
 |CVDD
 |CV Driven Development
-|---
+|BAD!
 |===
