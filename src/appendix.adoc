@@ -5,11 +5,11 @@
 
 |TDD
 |Test Driven Development
-|GOOD!
+|GOOD! https://en.wikipedia.org/wiki/Test-driven_developmentp[Wikipedia]
 
 |BDD
 |Behavioural Driven Development
-|GOOD!
+|GOOD! https://en.wikipedia.org/wiki/Behavior-driven_development[Wikipedia]
 
 |CVDD
 |CV Driven Development
