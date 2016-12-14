@@ -1,3 +1,5 @@
 === Weakest Dependency
 
 Your project is only as good as your weakest dependency.
+
+TIP: Be aware of dependencies you include. It is great not to reinvent the wheel, there are usually a lot of choices available but make sure to do your research on the library.
