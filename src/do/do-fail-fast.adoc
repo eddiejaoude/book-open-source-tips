@@ -1,0 +1,18 @@
+=== Fail fast with faster feedback loops
+
+Feedback loops include:
+
+1. Locally
+ * Linters
+ * Automated tests
+2. Continuous Integration (CI)
+ * Linters
+ * Automated tests
+ * Deployment with Continuous Delivery (CD)
+3. Manual / Exploratory testing
+4. ...
+5. All the way to the *Client* and then the *User*
+
+The sooner feedback and/or change the more efficient it will be. Therefore on the flip side, the later the feedback and/or change the more costly it will be. Not only because it went through more steps to get there, but after the change has been made, it will have to go through all those steps again.
+
+TIP: Fail fast!

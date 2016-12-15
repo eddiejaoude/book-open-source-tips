@@ -35,3 +35,5 @@ include::do/do-optimal-time.adoc[]
 include::do/do-not-enough-time.adoc[]
 
 include::do/do-codebase-improvements.adoc[]
+
+include::do/do-fail-fast.adoc[]
