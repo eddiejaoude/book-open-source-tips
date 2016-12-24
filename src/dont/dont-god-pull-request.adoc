@@ -1,3 +1,5 @@
 === God Pull Request
 
-Similar to "god commit", god pull request are a bad idea. Reviewing god or big bang pull request are not only annoying & painful, but leave room for skim reviewing & therefore mistakes. A pull request should be a single feature. No one ever complained that a Pull Request was too small.
+Similar to "god commit", god pull request are a bad idea. Reviewing god or big bang pull request are not only annoying & painful, but leave room for skim reviewing & therefore mistakes. A pull request should be a single feature.
+
+TIP: No one ever complained that a Pull Request was too small.
