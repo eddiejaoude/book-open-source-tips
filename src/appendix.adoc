@@ -19,5 +19,7 @@
 
 === Resources
 
+TIP: Suggestions welcome
+
 [quote, How to contribute to an open source project on GitHub, http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/]
 GitHub is the home of many popular open source projects like Ruby on Rails, jQuery, Docker, Go and many others. The way people (usually) contribute to an open source project on GitHub is using pull requests. A pull request is basically a patch which includes more information and allows members to discuss it on the website.
