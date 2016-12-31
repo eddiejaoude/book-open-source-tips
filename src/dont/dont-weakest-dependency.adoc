@@ -1,5 +1,10 @@
 === Weakest Dependency
 
-Your project is only as good as your weakest dependency.
+Your project is only as good as your weakest dependency. Check the dependencies you include in your project before including them, look at their:
 
-TIP: Be aware of dependencies you include. It is great not to reinvent the wheel, there are usually a lot of choices available but make sure to do your research on the library.
+- license
+- contribution activity
+- security
+- contributors
+
+TIP: Be aware of dependencies you include. It is great not to reinvent the wheel, there are usually a lot of choices available but make sure to do your research on the available libraries.
