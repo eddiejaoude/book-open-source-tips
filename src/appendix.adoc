@@ -29,3 +29,6 @@ Open source works by having many people contribute to the creation and maintenan
 
 [quote, How to contribute to an open source project on GitHub, http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/]
 GitHub is the home of many popular open source projects like Ruby on Rails, jQuery, Docker, Go and many others. The way people (usually) contribute to an open source project on GitHub is using pull requests. A pull request is basically a patch which includes more information and allows members to discuss it on the website.
+
+[quote, A Beginner’s Very Bumpy Journey Through The World of Open Source, https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.an82epenf]
+It’s okay to not know everything, and take one step at a time to learn something new. Don’t waste a lot of time choosing the “right” project. If you know a project or a organization with a beginner-friendly community, just start there. A huge shout-out to all the open source maintainers who have been super responsive and encourage of new contributors. You are helping newcomers navigate huge code bases and contribute in maybe a small yet meaningful ways. Your efforts are truly appreciated and needed.
