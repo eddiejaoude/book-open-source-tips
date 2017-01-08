@@ -7,7 +7,9 @@
  - Integration tests are great for the touch points
  - End-to-end tests are great for full application testing & simulate the user
 * It should be very easy to setup up a local environment & run all these tests
-* Run the automated tests on Continuous Integration (CI) (for example http://travis-ci.org[TravisCI]) after someone has pushed their code changes to a feature branch
+* Run the automated tests on Continuous Integration (CI) after someone has pushed their code changes to a feature branch
 * When automated tests are successful, deploy the application aka Continuous Delivery (CD)
 
 NOTE: This includes database schema migrations, asset building and anything that is required by the end product
+
+TIP: http://travis-ci.org[TravisCI] is highly recommended in Open Source projects. Very easy to set up & get going, all frim a simople `yamla file.
