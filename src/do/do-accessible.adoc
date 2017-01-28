@@ -1,0 +1,27 @@
+=== Accessible
+
+Make the project **Accessible**.
+
+This has 2 areas:
+
+
+==== Lower the barrier to entry
+
+Allow all people, juniors to seniors to be part of the community & contribute.
+
+* GitHub template <<_github_template_files,more information>>
+* Automated tests <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,more information>>
+* ...
+
+==== The resulting product need to cater for all
+
+Access by everyone regardless of disability (e.g. visually impaired) is critical to any project.
+
+For example:
+
+* Alternative `alt` text for images
+* Keyboard input as well as mouse
+* Transcripts for videos
+* ...
+
+TIP: Be inclusive
