@@ -13,9 +13,9 @@ Allow all people, juniors to seniors to be part of the community & contribute.
 * Automated tests <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,more information>>
 * ...
 
-==== The resulting product need to cater for all
+==== The resulting product needs to cater for all
 
-Access by everyone regardless of disability (e.g. visually impaired) is critical to any project.
+Access by everyone regardless of disability (e.g. visually impaired) is critical to the success of any project.
 
 For example:
 
