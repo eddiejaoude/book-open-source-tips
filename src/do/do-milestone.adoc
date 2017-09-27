@@ -1,0 +1,10 @@
+=== GitHub Milestones
+
+Using *Milestones* not only gives you and your community visibility on the current goal and its progress, but also the future goals and what they contain.
+
+TIP: Align your *Release* versions with your *Milestones*
+
+.Related
+****
+* link:index.html#_github_releases_tags[Release tips]
+****

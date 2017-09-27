@@ -39,3 +39,9 @@ include::do/do-codebase-improvements.adoc[]
 include::do/do-fail-fast.adoc[]
 
 include::do/do-accessible.adoc[]
+
+include::do/do-labels.adoc[]
+
+include::do/do-milestone.adoc[]
+
+include::do/do-release.adoc[]

@@ -1,0 +1,14 @@
+=== GitHub Labels
+
+These are really useful for various reasons:
+
+- Helps people filter their results, for example by `defect`, `idea` etc
+- If people want to contribute to your project a label that states `help needed` will stand out
+- Difficultly level. Contributors can filter by a level they are comfortable with
+
+TIP: Have different labels but dont go label crazy, 10-20 is about right
+
+.Related
+****
+* link:index.html#_github_issue_task[Issues & Tasks tips]
+****

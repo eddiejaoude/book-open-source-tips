@@ -1,0 +1,10 @@
+=== GitHub Releases / Tags
+
+When you are happy with the work done so far, make a *Release* so your community knows, this is a stable version. In the *release notes*, include *change log*.
+
+TIP: Align your *Release* versions with your *Milestones*
+
+.Related
+****
+* link:index.html#_github_milestones[Milestone tips]
+****
