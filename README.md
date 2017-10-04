@@ -14,7 +14,7 @@ We would love your help in keeping this book updated. Your comments, suggestions
 
 Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
 
-While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, plus some pointers for aspiring Open Source developers.
+While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, and offers some pointers to aspiring Open Source developers.
 
 [Let's dive right in](https://eddiejaoude.github.io/book-open-source-tips/).
 
@@ -22,7 +22,7 @@ All changes in `master` branch are automatically deployed to the above URL.
 
 ## Code of Conduct
 
-* Read here [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+* [Read here](.github/CODE_OF_CONDUCT.md)
 
 ## Dependencies
 
@@ -56,7 +56,7 @@ Source code is in `src/` directory.
 
 ### Generate html, pdf etc
 
-* To generate the output in **html** & **pdf**: 
+* To generate the output in **html** & **pdf**:
 
 ```bash
 make
