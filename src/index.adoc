@@ -35,6 +35,9 @@ While this abundant ecosystem has been of huge benefit to the whole industry, it
 
 Let's dive right in.
 
+TIP: Projects not made public at the beginning are at higher risk of having private credentials committed in the history. Therefore it is highly recommended to make projects public from the start, stating they are not finished is not an excuse as they will never be finished. If public from day one, then the right mindset is used and thus reduces the risk.
+
+
 <<<
 == DOs
 
