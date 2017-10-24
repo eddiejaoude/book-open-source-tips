@@ -1,0 +1,12 @@
+=== Branching
+
+Branching is important when working with a team, and even more important when working with a wider team you dont even know yet.
+
+Protect your mainline branch (usually `master` or `develop`) and everything must go via a feature branch and a **Pull Request**. This should be the same for everyone, public contributors and approved maintainers.
+
+TIP: There are many branching strategies, one example is *Gitflow*, many people use part of   http://nvie.com/posts/a-successful-git-branching-model/[Gitflow].
+
+.Related
+****
+* link:index.html#_pull_requests[Pull Requests]
+****

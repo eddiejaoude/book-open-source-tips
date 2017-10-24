@@ -45,3 +45,5 @@ include::do/do-labels.adoc[]
 include::do/do-milestone.adoc[]
 
 include::do/do-release.adoc[]
+
+include::do/do-branching.adoc[]
