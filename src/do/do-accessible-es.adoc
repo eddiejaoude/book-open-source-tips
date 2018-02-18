@@ -1,0 +1,27 @@
+=== Accesible
+
+Haga que el proyecto sea **Accesible**.
+
+Esto tiene 2 áreas:
+
+
+==== Baje la barrera para entrar
+
+Permita que todas las personas, jóvenes y personas mayores sean parte de la comunidad y contribuyan.
+
+* Plantilla de GitHub <<_github_template_files,más información>>
+* Pruebas automatizadas <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,más información>>
+* ...
+
+==== El producto resultante necesita atender a todos
+
+El acceso para cualquier persona independientemente de su discapacidad (por ejemplo, discapacitados visuales) es fundamental para el éxito de cualquier proyecto.
+
+Por ejemplo:
+
+* Texto alternativo `alt` para imágenes
+* Entrada tanto de teclado como de mouse
+* Transcripciones para videos
+* ...
+
+Sugerencia: Sea inclusivo
