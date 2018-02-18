@@ -4,7 +4,7 @@
 
 Open Source book on Open Source Tips https://eddiejaoude.github.io/book-open-source-tips/
 
-This book contains some common DOs & DON'Ts for Open Source software.
+This book contains some common **DOs** & **DON'Ts** for Open Source software.
 
 The Open Source community is thriving. Each day the number of Open Source projects grows, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
 
