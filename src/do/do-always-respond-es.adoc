@@ -1,0 +1,3 @@
+=== Siempre responda - Issue y Pull Request
+
+Responda siempre a un Issue y Pull Request de manera oportuna, idealmente dentro de 24 horas (incluso si se trata de un comentario que confirma que al menos ha leído el problema y responderá completamente en 3 días). Esto maneja las expectativas de cuándo el contribuyente puede esperar una respuesta completa.
