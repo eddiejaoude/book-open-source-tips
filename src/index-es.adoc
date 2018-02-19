@@ -40,7 +40,7 @@ SUGERENCIA: Los proyectos que no se hacen públicos al principio tienen un mayor
 <<<
 == Qué Hacer
 
-include::do.adoc[]
+include::do-es.adoc[]
 
 <<<
 == Qué No Hacer
