@@ -1,0 +1,53 @@
+= Consejos para el Código Abierto
+By Eddie Jaoude
+:toc:
+
+:author:    Eddie Jaoude
+:twitter:   https://twitter.com/eddiejaoude
+:date:      2016
+:version:   0.1.0
+:repo:      https://github.com/eddiejaoude/book-open-source-tips
+:imagesdir: images
+:docinfo1:
+
+[abstract]
+== Resumen
+
+Este libro contiene algunas cosas que se deben y no se deben hacer para el software de Código Abierto.
+
+[preface]
+== Prefacio
+
+La comunidad de Código Abierto está prosperando. Cada día crece el número de proyectos de Código Abierto, al igual que el ejército de contribuyentes que los mantienen. Si bien esto es emocionante para la industria, puede ser desalentador para un desarrollador nuevo en la comunidad. Este libro tiene como objetivo proporcionar algunos consejos para los recién llegados para ayudarlos a evitar las trampas del desarrollo de Código Abierto y aprender de la sabiduría colectiva de la comunidad.
+
+Como dice el proverbio antiguo, "_El tiempo y la marea [y la tecnología] no esperan a nadie_". Y para lo mejor de nuestra capacidad, tampoco este libro. ¡Recuerde verificar el número de la versión para las actualizaciones! Estamos actualmente en la versión {version}.
+
+Nos encantaría su ayuda para mantener este libro actualizado. Sus comentarios, sugerencias y pull requests son bienvenidos. Puede encontrar el repositorio en GitHub: {repo}.
+
+Si tiene alguna pregunta, por favor comuníquese con el autor, {author} en {twitter}.
+
+<<<
+== Introducción
+
+El Código Abierto está dominando la industria del software. Sus campeones incluyen conocidas organizaciones como Facebook, Twitter, Netflix, LinkedIn y Google (Android/Chrome), pero más importantemente, un ejército de desarrolladores individuales apasionados alrededor del mundo. Sus esfuerzos han impactado casi todas las partes de la ciencia de la computación, culminando en millones de proyectos de código abierto, ¡con miles de millones de líneas de código!
+
+Si bien este ecosistema abundante ha sido de gran beneficio para toda la industria, también puede hacer que sea difícil para los recién llegados saber por dónde empezar. Si usted es un recién llegado, es posible que se enfrente a preguntas tales como _"¿Cómo puedo contribuir a la comunidad de código abierto?"_ O, _"¿Cómo elijo entre tantos proyectos en competencia?"_. Los siguientes puntos a abordan algunas de esas preguntas básicas, además de algunos consejos para aspirantes a desarrolladores de código abierto.
+
+Vamos a sumergirnos en esto.
+
+SUGERENCIA: Los proyectos que no se hacen públicos al principio tienen un mayor riesgo de tener credenciales privadas comprometidas en la historia. Por lo tanto, se recomienda altamente hacer públicos los proyectos desde el principio, y afirmar que no están terminados no es una excusa, ya que nunca se terminarán. Si es público desde el primer día, se usa la mentalidad correcta y, por lo tanto, se reduce el riesgo.
+
+<<<
+== Qué Hacer
+
+include::do.adoc[]
+
+<<<
+== Qué No Hacer
+
+include::dont.adoc[]
+
+<<<
+== Apéndice
+
+include::appendix.adoc[]
