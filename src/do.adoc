@@ -1,3 +1,5 @@
+== This is a list of things you should do in an open source project
+
 include::do/do-readme.adoc[]
 
 include::do/do-code-block.adoc[]

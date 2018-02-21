@@ -1,3 +1,5 @@
+== This is a list of things you should not do in an open source project
+
 include::dont/dont-big-bang-project.adoc[]
 
 include::dont/dont-god-commit.adoc[]
