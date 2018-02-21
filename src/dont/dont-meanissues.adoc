@@ -1,0 +1,4 @@
+Don't add rude or mean comments in issues, this will most likely upset the programmer
+and either stop them from programming in the future or cause an argument. Issues should
+include help on how to make the script better and sometimes friendly, helpful critisism.
+This way the programmer can improve his/her project happily.
