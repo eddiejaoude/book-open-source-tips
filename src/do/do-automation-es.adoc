@@ -1,0 +1,15 @@
+=== Automatización - Pruebas, Integración continua (IC), Despliegue Continuo (DC)
+
+¡*Automatice todo*! Esto ayuda a reducir la barrera para entrar y aumentar la repetibilidad.
+
+* Las pruebas automatizadas tienen muchos beneficios y dan confianza en el estado y la calidad de la aplicación:
+ - Las pruebas unitarias son excelentes para el diseño y la arquitectura de la funcionalidad
+ - Las pruebas de integración son geniales para los puntos de contacto
+ - Las pruebas de extremo a extremo son excelentes para realizar pruebas completas de aplicaciones y simular al usuario
+* Debería ser muy fácil configurar un entorno local y ejecutar todas estas pruebas
+* Ejecute las pruebas automatizadas en Integración continua (IC) después de que alguien haya introducido sus cambios de código en una rama específica
+* Cuando las pruebas automáticas son exitosas, implemente la aplicación conocida como Entrega Continua (ED)
+
+NOTA: Esto incluye migraciones de esquema de bases de datos, creación de activos estáticos y cualquier cosa que requiera el producto final
+
+CONSEJO: http://travis-ci.org[TravisCI] es muy recomendable en proyectos de código abierto. Muy fácil de instalar y poner en marcha, todo desde un simple archivo `yamla.
