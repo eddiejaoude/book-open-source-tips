@@ -1,0 +1,9 @@
+=== Código de Conducta
+
+Su comunidad necesita sentirse segura, diversa e inclusiva. Asegúrese de tener un Código de Conducta para su proyecto y comunidad. Lea más acerca de http://contributor-covenant.org[Convenio de Colaboradores: Un Código de Conducta para Proyectos de Código Abierto]
+
+[quote, Convenio de Colaboradores, Breve reseña del problema]
+El código abierto siempre ha sido la base de Internet, y con la llegada de las redes sociales de código abierto, esto es más cierto que nunca. Pero los proyectos gratuitos, libres y de código abierto sufren de una sorprendente falta de diversidad, con una participación dramáticamente baja de mujeres, personas de color y otras poblaciones marginadas.
+
+[quote, Convenio de Colaboradores, Breve reseña de la solución]
+Una forma fácil de comenzar a abordar este problema es ser abiertos en nuestra receptividad, dándole la bienvenida a todas las personas para que contribuyan y comprometiéndonos a cambio de valorarlas como seres humanos y fomentar una atmósfera de bondad, cooperación y comprensión.
