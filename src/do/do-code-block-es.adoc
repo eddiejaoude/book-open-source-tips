@@ -1,0 +1,5 @@
+=== Bloque de código
+
+Utilice el resaltado de sintaxis dentro de los bloques de código en la documentación para que sea más fácil de leer.
+
+image::github-syntax-highlighting.png[caption="Resaltado de sintaxis de Github", role="thumb", title="Resaltado de sintaxis de Github", alt="Resaltado de sintaxis de Github", link="https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting"]
