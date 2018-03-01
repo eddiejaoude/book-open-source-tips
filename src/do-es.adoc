@@ -1,12 +1,12 @@
 include::do/do-readme.adoc[]
 
-include::do/do-code-block.adoc[]
+include::do/do-code-block-es.adoc[]
 
 include::do/do-contribution-file.adoc[]
 
 include::do/do-explore-open-source-projects.adoc[]
 
-include::do/do-code-of-conduct.adoc[]
+include::do/do-code-of-conduct-es.adoc[]
 
 include::do/do-github-template-files.adoc[]
 
@@ -26,7 +26,7 @@ include::do/do-pull-request.adoc[]
 
 include::do/do-review.adoc[]
 
-include::do/do-automation.adoc[]
+include::do/do-automation-es.adoc[]
 
 include::do/do-prototyping.adoc[]
 
@@ -46,4 +46,4 @@ include::do/do-milestone.adoc[]
 
 include::do/do-release.adoc[]
 
-include::do/do-branching.adoc[]
+include::do/do-branching-es.adoc[]
