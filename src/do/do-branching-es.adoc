@@ -1,0 +1,12 @@
+=== Ramificaciones
+
+La ramificación es importante cuando se trabaja con un equipo, y aún más importante cuando se trabaja con un equipo más amplio que aún no se conoce.
+
+Proteja su rama principal (generalmente `master` o `develop`) y todo debe ir a través de una rama y un **Pull Request**. Esto debería ser igual para todos, contribuyentes públicos y mantenedores aprobados.
+
+CONSEJO: Existen muchas estrategias de ramificación, un ejemplo es *Gitflow*, muchas personas usan parte de http://nvie.com/posts/a-successful-git-branching-model/[Gitflow].
+
+.Relacionado
+****
+* link:index.html#_pull_requests[Pull Requests]
+****
