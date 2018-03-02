@@ -1,54 +1,54 @@
-= Open Source Tips
-By Eddie Jaoude
+= Mga Babalaan sa Open Source
+Ni Eddie Jaoude
 :toc:
 
-:author:    Eddie Jaoude
+:may-akda:    Eddie Jaoude
 :twitter:   https://twitter.com/eddiejaoude
-:date:      2016
-:version:   0.1.0
+:petsa:      2016
+:bersyon:   0.1.0
 :repo:      https://github.com/eddiejaoude/book-open-source-tips
 :imagesdir: images
 :docinfo1:
 
 [abstract]
-== Abstract
+== Buod
 
-This book contains some common DOs & DON'Ts for Open Source software.
+Ang aklat na ito ay naglalaman ng mga karaniwang DAPAT at HINDI DAPAT GAWIN para sa Open Source na software.
 
 [preface]
-== Preface
+== Paunang Salita
 
-The Open Source community is thriving. Each day the number of Open Source projects grows, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
+Ang komunidad ng Open Source ay patuloy na lumalago. Sa bawat araw na dumarami ang bilang ng mga proyektong Open Source, gayundin ang hukbo ng mga nag-aambag para panatilihin sila. Bagaman nakakapanabik ito para sa industriya, maaari itong maging katakot-takot para sa isang bagong tagabuo sa komunidad. Ang aklat na ito ay naglalayon na magbigay ng iilang mga babalaan para sa mga baguhan upang makatulong sa kanila na iwasan ang mga patibong sa pagbuo ng Open Source at para matuto mula sa pangkalahatang kaalaman ng komunidad.
 
-As the ancient proverb goes, "_Time and tide [and technology] wait for no man_". And to the best of our ability, neither will this book. Remember to check the version number for updates! We're currently on v{version}.
+Ika nga sa lumang kawikaan, "_Ang oras at ang alon [at teknolohiya] ay hindi naghihintay sa sinumang tao_". At sa abot ng aming makakaya, maging ang aklat ding ito. Tandaang tingnan ang bilang ng bersyon para sa mga update! Kami'y kasalukuyang nasa v{version}.
 
-We would love your help in keeping this book updated. Your comments, suggestions and pull requests are most welcome. You can find the repository on GitHub: {repo}.
+Lubos naming ikagagalak ang inyong tulong upang mapanatiling naka-update ang aklat na ito. Ang inyong mga komento, suhestyon at pull requests ay malugod naming tinatanggap. Maaari niyong hanapin ang repository sa Github: {repo}.
 
-If you have any questions, please contact the author, {author} on {twitter}.
-
-<<<
-== Introduction
-
-Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter, Netflix, LinkedIn and Google (Android/Chrome), but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
-
-While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, plus some pointers for aspiring Open Source developers.
-
-Let's dive right in.
-
-TIP: Projects not made public at the beginning are at higher risk of having private credentials committed in the history. Therefore it is highly recommended to make projects public from the start, stating they are not finished is not an excuse as they will never be finished. If public from day one, then the right mindset is used and thus reduces the risk.
-
+Kung may iba pa kayong katanungan, mangyari lamang na makipag-ugnay sa may-akda na si {author} sa {twitter}.
 
 <<<
-== DOs
+== Panimula
+
+Nangingibabaw ang Open Source sa industriya ng software. Ang mga kampeon nito'y pinabibilangan ng mga tanyag na organisasyon tulad ng Facebook, Twitter, Netflix, LinkedIn at Google (Android/Chrome), ngunit ang mas mahalaga, ang hukbo ng mga dedikadong indibidwal na tagabuo sa buong mundo. Ang kanilang mga pagsisikap ay nagkaroon ng epekto sa halos bawat bahagi ng computer science, nagresulta sa milyun-milyong open source na proyekto na may bilyun-bilyong mga linya ng code!
+
+Habang ang masaganang ecosystem na ito ay nagbigay ng malaking tulong sa buong industriya, maaari rin itong magpahirap sa mga baguhan na hindi alam kung saan magsisimula. Kung ikaw ay isang baguhan, maaari mong harapin ang mga katanungang _"Paano ako makakaambag sa komunidad ng Open Source?"_ O, _"Paano ako pipili sa pagitan ng napakaraming nakikipagkompetensiyang proyekto?"_. Ang mga sumusunod na mga DAPAT at HINDI DAPAT GAWIN ay naglalayon na masagot ang mga katanungang iyon, pati na rin ang ibang mga payo para sa nagbabalak na maging tagabuo ng Open Source.
+
+Tara na't sisirin natin ito.
+
+PAALALA: Ang mga proyektong hindi isinapubliko sa simula ay may mas mataas na pagkakataong ipagkatiwala ang mga pribadong kredensyal sa kasaysayan, kung kaya't mas nirerekomendang gawing pampubliko ang mga proyekto sa simula pa lang. Ang pagsasaad na sila ay hindi pa tapos ay hindi isang dahilan, dahil kailanman, sila ay hindi matatapos. Kung isinapubliko sa simula pa lamang, pinaparating lang noon na ang tamang pananaw ang ginamit kaya naman mababawasan ang panganib.
+
+
+<<<
+== Mga DAPAT Gawin
 
 include::do.adoc[]
 
 <<<
-== DON'Ts
+== Mga HINDI DAPAT Gawin
 
 include::dont.adoc[]
 
 <<<
-== Appendix
+== Apendiks
 
 include::appendix.adoc[]
