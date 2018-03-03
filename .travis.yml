@@ -12,6 +12,8 @@ before_script:
   - asciidoctor -v
   - asciidoctor-pdf -v
   - sed -i -- 's/0.1.0/0.1.'$TRAVIS_BUILD_NUMBER'.'$TRAVIS_BRANCH'/g' src/index.adoc
+  - sed -i -- 's/0.1.0/0.1.'$TRAVIS_BUILD_NUMBER'.'$TRAVIS_BRANCH'/g' src/index-es.adoc
+  - sed -i -- 's/0.1.0/0.1.'$TRAVIS_BUILD_NUMBER'.'$TRAVIS_BRANCH'/g' src/index-fil.adoc
 
 script:
   - make
