@@ -9,6 +9,7 @@ assets:
 html:
 	asciidoctor src/index.adoc -D build/
 	asciidoctor src/index-es.adoc -D build/
+	asciidoctor src/index-fil.adoc -D build/
 
 pdf:
 	asciidoctor -r asciidoctor-pdf -b pdf -a pdf-style=config/pdf-theme.yml src/index.adoc -D build/
