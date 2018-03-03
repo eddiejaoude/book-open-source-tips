@@ -2,9 +2,9 @@ include::do/do-readme.adoc[]
 
 include::do/do-code-block-es.adoc[]
 
-include::do/do-contribution-file.adoc[]
+include::do/do-contribution-file-es.adoc[]
 
-include::do/do-explore-open-source-projects.adoc[]
+include::do/do-explore-open-source-projects-es.adoc[]
 
 include::do/do-code-of-conduct-es.adoc[]
 
@@ -34,7 +34,7 @@ include::do/do-optimal-time.adoc[]
 
 include::do/do-not-enough-time.adoc[]
 
-include::do/do-codebase-improvements.adoc[]
+include::do/do-codebase-improvements-es.adoc[]
 
 include::do/do-fail-fast.adoc[]
 
