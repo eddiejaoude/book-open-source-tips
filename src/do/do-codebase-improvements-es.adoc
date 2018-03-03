@@ -1,0 +1,5 @@
+=== Mejoras en la base de código: Deja la base de código mejor de lo que la encontraste
+
+Muchos repositorios de código (principalmente los de Código Cerrado) van de mal en peor. Por otro lado, los proyectos de Código Abierto tienden a ser todo lo contrario debido a que están en el ojo público. Incluso las mejoras más pequeñas suman y realmente ayudan.
+
+CONSEJO: Ninguna mejora es demasiado pequeña. Hazlo mejor.
