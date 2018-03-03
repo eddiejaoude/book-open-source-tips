@@ -1,10 +1,10 @@
 = Mga Paaalalahanan sa Open Source
-Eddie Jaoude
+By Eddie Jaoude
 :toc:
 
-:may-akda:    Eddie Jaoude
+:may-akda:  Eddie Jaoude
 :twitter:   https://twitter.com/eddiejaoude
-:petsa:      2016
+:petsa:     2016
 :bersyon:   0.1.0
 :repo:      https://github.com/eddiejaoude/book-open-source-tips
 :imagesdir: images
