@@ -1,0 +1,18 @@
+=== Explora proyectos de código abierto
+
+Recuerde explorar otros proyectos de código abierto para ver cómo otros proyectos se han administrado con éxito y cuáles fueron sus resultados.
+
+Aquí hay 10 ejemplos de proyectos de código abierto para comenzar:
+
+- https://24pullrequests.com/projects[24 Pull Requests]
+- https://github.com/dwyl[dwyl - do what you love]
+- https://github.com/foundersandcoders[Founders & Coders]
+- https://github.com/HackBrexit[Hack Brexit]
+- https://github.com/WeRockTech[We Rock Tech]
+- https://github.com/womenhackfornonprofits[Women Who Hack For Non Profits]
+- https://github.com/elixirkoans/elixir-koans[Elixir Koans]
+- https://github.com/codebar[Codebar]
+- https://github.com/rails-girls-summer-of-code[Rails Girls Summer of Code]
+- https://github.com/voteamerica/voteamerica.github.io[Vote America]
+
+CONSEJO: Cuantos más proyectos de código abierto haya explorado, más verá qué prácticas han funcionado y cuáles no. Esto le proporcionará más conocimiento sobre cómo le gustaría ejecutar su proyecto en la práctica, en función de los proyectos existentes que haya conocido.
