@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/eddiejaoude/book-open-source-tips.svg?branch=master)](https://travis-ci.org/eddiejaoude/book-open-source-tips)
+[![DashboardHub Badge](https://img.shields.io/badge/DashboardHub-Open%20Source Book-orange.svg)](https://pipeline.dashboardhub.io/f39a2d40-2045-11e8-a435-ade829eb4121/view)
 
 # Open Source Tips
 
