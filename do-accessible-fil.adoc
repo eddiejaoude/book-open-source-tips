@@ -1,0 +1,27 @@
+=== Kadalian sa Pagpasok
+
+Gawing **Mas Madaling Pasukin** ang proyekto.
+
+Ito ay may dalawang (2) sakop:
+
+
+==== Ibaba ang hadlang sa pagpasok
+
+Payagan ang lahat ng mga tao, mapa-baguhan man o higit na nakakaalam na maging parte ng komunidad at mag-ambag.
+
+* Template ng Github <<_github_template_files,mas maraming impormasyon>>
+* Mga pagsusuring isina-awtomatiko <<_automation_tests_continuous_integration_ci_continuous_deployment_cd,mas maraming impormasyon>>
+* ...
+
+==== Ang resultang produkto ay dapat na magsilbi para sa lahat
+
+Ang kakayahang makapasok ng lahat, kahit na may kapansanan (hal. may kapansanan sa paningin), ay kritikal sa tagumpay ng anumang proyekto.
+
+Halimbawa:
+
+* Alternatibong `alt` teksto para sa mga imahe
+* Pag-input gamit ang keyboard at mouse
+* Mga salin para sa mga video
+* ...
+
+TIP: Maging mapagpabilang
