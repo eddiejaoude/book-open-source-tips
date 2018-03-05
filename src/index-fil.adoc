@@ -41,7 +41,7 @@ PAALALA: Ang mga proyektong hindi isinapubliko sa simula ay may mas mataas na pa
 <<<
 == Mga Dapat Gawin
 
-include::do.adoc[]
+include::do-fil.adoc[]
 
 <<<
 == Mga Hindi Dapat Gawin
