@@ -1,13 +1,13 @@
 === Pull Requests
 
-If you spent the time doing the work, make sure you add a description to your your Pull Request to make it easier for the reviewer to digest your work. Raise an Issue first so a plan of action can be discussed before you begin the work and to remind yourself of the goals set out in that task.
+Si inviertes el tiempo haciendo el trabajo, asegúrate de que añadiste un descripción a tu Pull Request para hacer que sea más fácil para el revisor digerir tu trabajo. Sube un Asunto primero, así puede ser discutido un plan de acción antes de que empieces el trabajo y para recordarte a ti mismo los objetivos propuestos para el cometido.
 
-Pull Requests should be linked to the original Issue it is trying to solve. This can be done with using `#` followed by the *Issue No*, e.g. `#123`. The Issue description will contain the information before, therefore the Pull Request description should contain the information after the changes. Include visual material too, for example diagrams & screenshots.
+Los Pull Requests deberían ser enlazados al Asunto original que está tratando de solucionar. Esto puede hacerse usando `#` seguido de *Issue No*, e.g. `#123`. La descripción del Asunto contendrá la información previa, por lo que la descripción del Pull Request debería contener la información posterior a los cambios. Incluye material visual también, diagramas y capturas de pantalla, por ejemplo.
 
-Remember, keep it small. For example if your changes contains a feature or bug fix & code styling changes, these should be in separate Pull Requests. Every project would rather have 10 Pull Requests, than 1 or 2 massive Pull Requests.
+Recuerda, mantenlo corto. Por ejemplo, si tus cambios contienen una característica o una solución a un bug y cambios al estilo de código, deberían estar en Pull Requests separados. Lo ideal es que cada proyecto tenga 10 Pull Requests, en lugar de 1 o 2 Pull Requests masivos.
 
-TIP: Pull Request should be a single feature or change.
+TIP: Los Pull Request deberían ser un solo cambio o característica.
 
-Multiple commits in a Pull Request highlight the creation steps of the Pull Request. Do not try to do everything in a single commit.
+Multiples commits en un Pull Request resaltan los pasos de creación del Pull Request. No intentes hacer todo en un solo commit.
 
-Comments do matter, if in doubt, put it in, they can more easily be removed than added. Dont describe how, that is obviously in the code, desribe why.
+Los comentarios importan, si hay alguna duda, ponla ahí, es más fácil removerlas que añadirlas. No describas cómo, eso está en el código obviamente, describe por qué.
