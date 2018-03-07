@@ -10,6 +10,6 @@
 * Pairalin ang mga isina-awtomatikong pagsusuri sa Patuloy na Integrasyon (PI) matapos maitulak ng isang tao ang mga pagbabago sa kowd sa isang tampok na sangay
 * Kung ang mga isina-awtomatikong pagsusuri ay matagumpay, italaga ang aplikasyon o mas kilala bilang Patuloy na Pagtatalaga (PP)
 
-BABALA: Ito ay sumasaklaw sa mga paglipat ng database schema, pagtatayo ng asset, at anuman na kinakailangan ng resultang produkto
+PAALALA: Ito ay sumasaklaw sa mga paglipat ng database schema, pagtatayo ng asset, at anuman na kinakailangan ng resultang produkto
 
-PAALALA: Ang http://travis-ci.org[TravisCI] ay lubos na nirerekomenda sa mga proyektong Open Source. Napakadaling i-setup at gamitin, lahat mula sa simpleng `yamla file.
+TIP: Ang http://travis-ci.org[TravisCI] ay lubos na nirerekomenda sa mga proyektong Open Source. Napakadaling i-setup at gamitin, lahat mula sa simpleng `yamla file.
