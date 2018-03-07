@@ -1,0 +1,5 @@
+=== Bloke ng code
+
+Gumamit ng pag-highlight ng syntax sa loob ng mga bloke ng code sa dokumentasyon para mapadali ang pagbasa nito.
+
+image::github-syntax-highlighting.png[caption="Pag-highlight ng syntax sa Github", role="thumb", title="Pag-highlight ng syntax sa Github", alt="GitHub syntax highlighting", link="https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting"]
