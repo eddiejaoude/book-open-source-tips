@@ -1,42 +1,42 @@
 [![Build Status](https://travis-ci.org/eddiejaoude/book-open-source-tips.svg?branch=master)](https://travis-ci.org/eddiejaoude/book-open-source-tips)
 [![DashboardHub Badge](https://img.shields.io/badge/DashboardHub-Open%20Source Book-orange.svg)](https://pipeline.dashboardhub.io/f39a2d40-2045-11e8-a435-ade829eb4121/view)
 
-# Open Source Tips
+# Tips para el Código Abierto
 
 Open Source book on Open Source Tips
 
-| Language | Status | Link |
+| Idioma | Estado | Link |
 | :--- | :--- | :--- |
-| English | - | https://eddiejaoude.github.io/book-open-source-tips/ |
-| Spanish | In progress | https://eddiejaoude.github.io/book-open-source-tips/index-es.html |
+| Inglés | - | https://eddiejaoude.github.io/book-open-source-tips/ |
+| Español | En Progreso | https://eddiejaoude.github.io/book-open-source-tips/index-es.html |
 
-This book contains some common **DOs** & **DON'Ts** for Open Source software.
+Este libro contiene algunos **DOs** & **DON'Ts** comunes para el software de Código Abierto.
 
-The Open Source community is thriving. Each day the number of Open Source projects grows, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
+La comunidad del Código Abierto está prosperando actualmente. Cada día que pasa, el número de proyectos de Código Abierto crece, al igual que el número de contribuidores que los mantienen. Aunque esto es muy emocionante para la industria, puede resultar abrumador para un desarrollador nuevo dentro de la comunidad. Este libro tiene como objetivo dar algunos consejos a los principiantes para ayudarlos a evitar las dificultades que el desarrollo de Código Abierto pude presentar y aprender de la sabiduría colectiva de la comunidad.
 
-As the ancient proverb goes, _Time and tide [and technology] wait for no man_. And to the best of our ability, neither will this book. Remember to check the version number for updates!
+Tal y como dice ese antiguo proverbio, _Ni el tiempo ni la marea [ni la tecnología] esperan por nadie_. Y, en la medida de nuestras posibilidades, tampoco lo hará este libro. ¡Recuerda revisar el número de edición para estar al tanto de cualquier actualización!
 
-We would love your help in keeping this book updated. Your comments, suggestions and pull requests are most welcome.
+Nos encantaría que nos ayudaras a mantener este libro actualizado. Por lo que tus comentarios, sugerencias o pull requests son más que bienvenidas. 
 
-Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
+El Código Abierto está dominando la industria de softwares. Algunos de sus campeones son organizaciones bastante conocidas como Facebook, Twitter y Netflix, pero los más significativos son los apasionados desarrolladores que se encuentran por todo el mundo. Sus esfuerzos han causado un gran impacto en casi todas las áreas de la informática, ¡resultando en millones de proyectos de código abierto con billones de líneas de código!
 
-While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, and offers some pointers to aspiring Open Source developers.
+Aunque este abundante ecosistema ha sido extremadamente beneficioso para toda la industria, puede hacer que sea complicado para los novatos saber dónde empezar. Si apenas estás iniciando, puede que te encuentres con preguntas como _"¿Cómo puedo contribuir con la comunidad de Código Abierto?"_ O, _"¿Cómo puedo elegir entre tantos proyectos rivales?"_. Los siguientes recordatorios de lo que se debe y no se debe hacer tienen como objetivo abarcar algunas de esas preguntas básicas y ofrecer algunas indicaciones para aquellos aspirantes a desarrolladores de Código Abierto.
 
-[Let's dive right in](https://eddiejaoude.github.io/book-open-source-tips/).
+[¡Entra ya mismo!](https://eddiejaoude.github.io/book-open-source-tips/).
 
-All changes in `master` branch are automatically deployed to the above URL.
+Todos los cambios en el salto `master` se despliegan automáticamente en la dirección URL mostrada arriba.
 
-## Code of Conduct
+## Código de Conducta
 
 * [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 
-## Dependencies
+## Dependencias
 
 * [Ascii Doctor](http://asciidoctor.org)
 
-## Quick Start
+## Inicio Rápido
 
-### Install
+### Instalar
 
 * AsciiDoctor (html)
 
@@ -56,13 +56,13 @@ gem install --pre asciidoctor-pdf
 apm install asciidoc-preview
 ```
 
-### Source code
+### Código Fuente
 
-Source code is in `src/` directory.
+El código fuente está en el directorio `src/`.
 
-### Generate html, pdf etc
+### Generar html, pdf, etc
 
-* To generate the output in **html** & **pdf**:
+* Para generar la salida en **html** y **pdf**:
 
 ```bash
 make
