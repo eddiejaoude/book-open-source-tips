@@ -1,0 +1,15 @@
+=== Pagsasa-awtomatiko - Mga Pagsusuri, Patuloy na Integrasyon (PI), Patuloy na Pagtatalaga (PP)
+
+*Isa-awtomatiko lahat*! Ito'y tumutulong para mapababa ang hadlang sa pagpasok at pataasin ang pagkakaulit.
+
+* Ang mga pagsusuring isina-awtomatiko ay maraming taglay na kabutihan at nagbibigay kumpiyansa sa estado at kalidad ng aplikasyon:
+ - Ang mga yunit na pagsusuri ay mabuti para sa disenyo at arkitektura ng pagpapaandar
+ - Ang mga pagsusuri sa integrasyon ay mabuti para sa mga puntong mahahawakan
+ - Ang mga punto por puntong pagsusuri ay mabuti para sa ganap na pagsusuri sa aplikasyon at pagkunuwa sa gumagamit
+* Ang pag-setup ng lokal na kapaligiran at pagpapairal sa lahat ng mga pagsusuring ito ay madali lamang
+* Pairalin ang mga isina-awtomatikong pagsusuri sa Patuloy na Integrasyon (PI) matapos maitulak ng isang tao ang mga pagbabago sa kowd sa isang tampok na sangay
+* Kung ang mga isina-awtomatikong pagsusuri ay matagumpay, italaga ang aplikasyon o mas kilala bilang Patuloy na Pagtatalaga (PP)
+
+PAALALA: Ito ay sumasaklaw sa mga paglipat ng database schema, pagtatayo ng asset, at anuman na kinakailangan ng resultang produkto
+
+TIP: Ang http://travis-ci.org[TravisCI] ay lubos na nirerekomenda sa mga proyektong Open Source. Napakadaling i-setup at gamitin, lahat mula sa simpleng `yamla file.
