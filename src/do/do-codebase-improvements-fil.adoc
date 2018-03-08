@@ -1,0 +1,5 @@
+=== Mga pagpapabuti sa codebase - Iwan ang codebase ng mas mabuti kaysa ng natagpuan mo ito
+
+Maraming mga imbakan ng code (kadalasan ang mga Closed Source) ang pumupunta galing sa masama patungo sa mas masama. Sa isang banda, ang mga proyektong Open Source ay posibleng magawi sa ganap na kabaligtaran nito dahil ito'y nakikita ng publiko. Kahit ang pinakamaliit na mga pagpapabuti ay nakakapagdagdag at talagang nakakatulong.
+
+TIP: Walang pagpapabuti na napakaliit. Gawin itong mas mabuti.
