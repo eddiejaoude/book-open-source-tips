@@ -1,0 +1,12 @@
+=== Pagsasanga
+
+Ang pagsasanga ay mahalaga kung nagtatrabaho sa isang grupo, at mas lalong mahalaga kung nagtatrabaho kasama ang mas malaking grupo na hindi mo pa nakikilala.
+
+Protektahan ang iyong pangunahing sanga (karaniwang ang `master` o `develop`) at ang lahat ay dapat dumaan sa isang tampok na sangay at isang **Pull Request**. Ito ay dapat na pareho para sa lahat, mga publikong nag-aambag at mga inaprubahang tagapagpanatili.
+
+TIP: Mayroong maraming stratehiya sa pagsasanga, isang halimbawa ang *Gitflow* - maraming tao ang gumagamit ng bahagi ng   http://nvie.com/posts/a-successful-git-branching-model/[Gitflow].
+
+.May kaugnayan
+****
+* link:index.html#_pull_requests[Pull Requests]
+****
