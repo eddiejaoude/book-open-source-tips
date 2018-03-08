@@ -1,0 +1,9 @@
+=== Alituntunin sa Pagkilos
+
+Ang iyong komunidad ay kailangang makaranas ng pagiging ligtas, pagkakaiba, at pagkakabilang. Siguraduhin mong mayroon kang Alituntunin sa Pagkilos para sa iyong proyekto at komunidad. Magbasa pa tungkol sa http://contributor-covenant.org[Tipan ng Taga-ambag - Isang Alituntunin sa Pagkilos para sa mga proyektong Open Source]
+
+[quote, Tipan ng Taga-ambag, Maikling kabuuran ng problema]
+Ang Open Source ay lagi ng maituturing na pundasyon ng Internet, at sa pagdating ng mga panlipunang open source na network, ito ay mas naging tunay higit pa kaysa dati. Ngunit ang malaya, libre, at mga proyektong open source ay nagdurusa sa kakulangan sa pagkakaiba-iba - sa kapansin-pansin na mababang partisipasyon ng mga kababaihan, mga taong may kulay, at iba pang mga naka-marhinalisang populasyon.
+
+[quote, Tipan ng Taga-ambag, Maikling kabuuran ng solusyon]
+Isang madaling paraan para masimulang pagtuunan ng pansin ang problemang ito ay ang hayagang pagiging bukas natin, pagsalubong sa lahat ng mga nag-aambag, at ang pangakong pahalagahan sila bilang mga tao at pagpapaunlad sa kapaligiran ng kabutihan, kooperasyon, at pag-iintindi.
