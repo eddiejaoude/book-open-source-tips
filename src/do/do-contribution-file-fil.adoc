@@ -1,0 +1,8 @@
+=== Talaksan ng Ambag
+
+Isa sa mga pangunahing benepisyo ng isang proyektong Open Source at ng mga ambag nito sa komunidad. Pababain ang hadlang sa pagpasok gamit ang `CONTRIBUTING.md` na file sa ugat ng iyong proyektong Open Source. Magbasa pa tungkol sa https://github.com/blog/1184-contributing-guidelines[Talaksan ng ambag sa GitHub]
+
+[quote, GitHub, Mga Patnubay sa Pag-ambag sa Github]
+Kadalasan, ang mga proyektong open source ay naglalagay ng isang NAG-AAMBAG na file sa ugat na direktoryo. Ipinapaliwanag nito kung paano gawin ng isang kasapi ang mga bagay tulad ng pag-format ng code, pagsusuri sa mga inayos, at pagsusumite ng mga patse. Narito ang isang magandang halimbawa galing sa papet at isa mula sa factory_girl_rails. Mula sa pananaw ng tagapagpatuloy, maikli ngunit malinaw na pinapahayag ng dokumento kung paano pinakamabuting makipagtulungan. At para sa isang nag-aambag, isang mabilisang pagsusuri ng mga talaksang ito ay magpapatunay na ang mga isinumite nila ay sumusunod sa mga patnubay ng tagapagpatuloy.
+
+image::github-contributing-file.png[caption="Mga Patnubay sa Pag-ambag sa Github", role="thumb", title="Mga Patnubay sa Pag-ambag sa Github", alt="Mga Patnubay sa Pag-ambag sa Github", link="https://github.com/blog/1184-contributing-guidelines"]
