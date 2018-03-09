@@ -1,0 +1,18 @@
+=== Magsaliksik ng mga proyektong Open Source
+
+Alalahaning magsaliksik ng iba pang mga proyektong open source para makita kung paanong matagumpay na napapamahalaan ang ibang mga proyekto, at kung ano ang kinalalabasan nila.
+
+Narito ang 10 halimbawa ng mga proyektong open source para makapagsimula ka:
+
+- https://24pullrequests.com/projects[24 Pull Requests]
+- https://github.com/dwyl[dwyl - do what you love]
+- https://github.com/foundersandcoders[Founders & Coders]
+- https://github.com/HackBrexit[Hack Brexit]
+- https://github.com/WeRockTech[We Rock Tech]
+- https://github.com/womenhackfornonprofits[Women Who Hack For Non Profits]
+- https://github.com/elixirkoans/elixir-koans[Elixir Koans]
+- https://github.com/codebar[Codebar]
+- https://github.com/rails-girls-summer-of-code[Rails Girls Summer of Code]
+- https://github.com/voteamerica/voteamerica.github.io[Vote America]
+
+TIP: Kung mas marami kang mga proyektong open source na masasaliksik, mas makikita mo kung aling mga pagsasanay ang gumana at kung alin ang hindi. Mabibigyan ka nito ng mas maraming kaalaman sa kung paano mo gugustuhing patakbuhin ang iyong proyekto, base sa mga umiiral na proyektong iyong nakatagpo.
