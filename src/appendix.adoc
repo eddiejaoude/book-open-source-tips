@@ -1,40 +1,40 @@
-=== Acronyms
+=== Acrónimos
 
-.Acronyms
+.Acrónimos
 |===
-|Acronym |Description |Notes
+|Acrónimo |Descripción |Notas
 
 |TDD
 |Test Driven Development
-|GOOD! https://en.wikipedia.org/wiki/Test-driven_developmentp[Wikipedia]
+|¡BIEN! https://en.wikipedia.org/wiki/Test-driven_developmentp[Wikipedia]
 
 |BDD
 |Behavioural Driven Development
-|GOOD! https://en.wikipedia.org/wiki/Behavior-driven_development[Wikipedia]
+|¡BIEN! https://en.wikipedia.org/wiki/Behavior-driven_development[Wikipedia]
 
 |CVDD
 |CV Driven Development
-|BAD!
+|¡MAL!
 |===
 
-=== Resources
+=== Recursos
 
-TIP: Suggestions welcome...read more at how to https://github.com/eddiejaoude/book-open-source-tips/blob/master/.github/CONTRIBUTING.md[contribute]
+TIP: Las contribuciones son bienvenidas...lee más en cómo https://github.com/eddiejaoude/book-open-source-tips/blob/master/.github/CONTRIBUTING.md[contribuir]
 
-[quote, Contributing to Open Source on GitHub, https://guides.github.com/activities/contributing-to-open-source/]
-A great way to get involved in open source is to contribute to the existing projects you’re using. GitHub is home to more than 5 million open source projects. There are projects for every skill set like recipes, HTML/CSS, Ruby, Astrophysics and many more. This guide will cover what you might find in a typical project and how to make a great contribution.
+[quote, Contribuir al Código Abierto en GitHub, https://guides.github.com/activities/contributing-to-open-source/]
+Una gran manera de involucrarse en el código abierto es contribuir a los proyectos existentes que estás usando. GitHub alberga más de 5 millones de proyectos de código abierto. Hay proyectos para cada conjunto de habilidades como recetas, HTML/CSS, Ruby, Astrofísica y muchas más. Esta guía cubrirá lo que podrías encontrar en un proyecto típico y cómo hacer una buena contribución.
 
-[quote, The Beginner’s Guide to Contributing to Open Source Projects, https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/]
-Open source works by having many people contribute to the creation and maintenance of software. Thing is, it works well only when people are actually contributing. Successful open source projects thrive on a wide variety of contributions from people with all levels of coding skills and commitment. If just one person fixes a compiler warning, closes a bug, or adds to the documentation, pretty soon you’re talking real progress. For many people, the hardest part is just getting started. So here are some suggested ways you can begin contributing right away, at whatever level is most comfortable for you.
+[quote, La Guía del Principiante para Contribuir a los Proyectos de Código Abierto, https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/]
+El código abierto funciona teniendo bastante gente contribuyendo a la creación y mantenimiento del software. La cosa es, funciona bien sólo cuando las personas están contribuyendo de verdad. Los proyectos de código abierto exitosos prosperan con una amplia variedad de contribuciones de personas con todos los niveles de habilidades de codificación y compromiso. Si sólo una persona repara un aviso de compilador, elimina un bug, o añade a la documentación, muy pronto estarás hablando de un progreso real. Para muchas personas, la parte más difícil es iniciarse. Así que aquí están algunas formas sugeridas para comenzar a contribuir de inmediato, en el nivel que sea más cómodo para ti.
 
-[quote, How to contribute to an open source project on GitHub, http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/]
-GitHub is the home of many popular open source projects like Ruby on Rails, jQuery, Docker, Go and many others. The way people (usually) contribute to an open source project on GitHub is using pull requests. A pull request is basically a patch which includes more information and allows members to discuss it on the website.
+[quote, Cómo contribuir a un proyecto de código abierto en GitHub, http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/]
+GitHub es hogar de muchos proyectos populares de código abierto como Ruby en Rails, jQuery, Docker, Go y muchos más. La forma en la que las personas (usualmente) contribuyen a un proyecto de código abierto en GitHub es usando pull requests. Un pull request es básicamente un parche que incluye más información y que le permite a los miembros discutirlo en el sitio web.
 
-[quote, A Beginner’s Very Bumpy Journey Through The World of Open Source, https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.an82epenf]
-It’s okay to not know everything, and take one step at a time to learn something new. Don’t waste a lot of time choosing the “right” project. If you know a project or a organization with a beginner-friendly community, just start there. A huge shout-out to all the open source maintainers who have been super responsive and encourage of new contributors. You are helping newcomers navigate huge code bases and contribute in maybe a small yet meaningful ways. Your efforts are truly appreciated and needed.
+[quote, Un viaje muy accidentado de principiantes a través del mundo del código abierto, https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.an82epenf]
+Está bien saberlo todo, y tomar un paso a la vez al momento de aprender algo nuevo. No pierdas demasiado tiempo eligiendo el proyecto “correcto”. Si conoces un proyecto o una organización con una comunidad amigable con los principiantes, empieza ahí. Un enorme agradecimiento a todos los encargados de mantenimiento de código abierto que han sido súper receptivos y que alienten a los nuevos contribuidores. Está ayudando a los recién llegados a navegar por enormes bases de código y a contribuir de una manera pequeña pero significativa. Tus esfuerzos son realmente apreciados y necesarios.
 
-[quote, How to care for the community over the code, https://opensource.com/article/16/12/community-over-code]
-You want to focus on the building blocks for your community before you get too deep in the code. "We'll do it right later" doesn't always work out well. If you don't make governance decisions now, things can fall apart, or if you make the wrong decision, it could turn off potential community members going forward.
+[quote, Cómo cuidar a la comunidad a través del código, https://opensource.com/article/16/12/community-over-code]
+Quieres concentrarte en los elementos básicos para tu comunidad antes de profundizar en el código. "Lo haremos bien luego" no siempre funciona. Si no tomas decisiones de gobernanza ahora, las cosas pueden desmoronarse, o si tomas la desición equivocada, podrías perder a potenciales miembros de la comunidad en el futuro.
 
-[quote, Web Accessibility Checklist, http://a11yproject.com/checklist.html]
-For many web developers, accessibility is complex and somewhat difficult. The Accessibility Project understands that and we want to help to make web accessibility easier for front end developers to implement. Blind and visually impaired make up 285,000,000 people according to the World Health Organization (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. Deaf and hearing impaired make up 275,000,000 (2004) in the moderate-to-profound hearing impairment category.
+[quote, Lista de Verificación de Accesibilidad Web, http://a11yproject.com/checklist.html]
+Para muchos desarrolladores web, la accesibilidad es compleja y de cierto modo difícil. El Proyecto de Accesibilidad entiende esto y queremos ayudar a hacer la accesibilidad web más fácil de implementar para desarrolladores de interfaz de usuario. Los ciegos y visualmente dispacitados conforman 285,000,000 de personas, de acuerdo a la Organización Mundial de la Salud (Junio 2012) con 39,000,000 categorizados como legalmente ciegos, y los restantes 246,000,000 como visualmente dispacitados. Sordos y discapacitados auditivos conforman 275,000,000 de personas (2004) en la categoría de discapacidad auditiva de moderada a profunda.
