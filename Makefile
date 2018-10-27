@@ -5,6 +5,7 @@ reset:
 
 assets:
 	cp -r src/images/ build/images/
+	cp -r src/favicon.ico build/
 
 html:
 	asciidoctor src/index.adoc -D build/
