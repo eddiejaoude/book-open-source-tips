@@ -56,6 +56,14 @@ gem install --pre asciidoctor-pdf
 apm install asciidoc-preview
 ```
 
+* VS Code preview [plugin](https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode) (optional)
+
+Launch VS Code Quick Open (Windows: `ctrl+p`, Mac: `cmd+p`), paste the following command, and press enter:
+
+```bash
+ext install joaompinto.asciidoctor-vscode
+```
+
 ### Source code
 
 Source code is in `src/` directory.
