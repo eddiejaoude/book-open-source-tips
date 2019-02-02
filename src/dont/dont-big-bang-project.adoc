@@ -1,5 +1,5 @@
 === Big bang project
 
-Dont try to complete the project in a manic weekend, then ignore it for the next year. This is not good for your health nor does it look good for your project from the community's view.
+Don't try to complete the project in a manic weekend, then ignore it for the next year. This is not good for your health nor does it look good for your project from the community's view.
 
 TIP: Try to be consistent and do a little every week. Your thoughts and ideas will be better over time, this will prevent you from wasting time on redoing work when you get a light bulb moment a few days later.
