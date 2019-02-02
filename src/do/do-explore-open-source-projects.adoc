@@ -15,4 +15,4 @@ Here are 10 examples of open source projects to start you off:
 - https://github.com/rails-girls-summer-of-code[Rails Girls Summer of Code]
 - https://github.com/voteamerica/voteamerica.github.io[Vote America]
 
-TIP: The more open source projects you have explored, the more you'll see what practices have worked and what have not. This will equip you with more knowledge on how you'd like to run your project in practice, based on existing prpjects you've come across.
+TIP: The more open source projects you have explored, the more you'll see what practices have worked and what have not. This will equip you with more knowledge on how you'd like to run your project in practice, based on existing projects you've come across.
