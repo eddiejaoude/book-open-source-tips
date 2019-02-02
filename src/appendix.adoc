@@ -9,7 +9,7 @@
 |GOOD! https://en.wikipedia.org/wiki/Test-driven_developmentp[Wikipedia]
 
 |BDD
-|Behavioural Driven Development
+|Behaviour Driven Development
 |GOOD! https://en.wikipedia.org/wiki/Behavior-driven_development[Wikipedia]
 
 |CVDD
