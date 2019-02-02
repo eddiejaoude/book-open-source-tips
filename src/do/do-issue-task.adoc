@@ -4,7 +4,7 @@ Keep these small. Tackling a large piece of work is always daunting and more dif
 
 Include diagrams, screenshots, sub tasks & anything visual to help describe the issue & changes.
 
-TIP: Dont forget you can use a sub task checklist on https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments[GitHub Issues Checklist]. Sub task list are prepended with `[ ]` for incomplete & `[x]` for complete items.
+TIP: Don't forget you can use a sub task checklist on https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments[GitHub Issues Checklist]. Sub task list are prepended with `[ ]` for incomplete & `[x]` for complete items.
 
 .Related
 ****
