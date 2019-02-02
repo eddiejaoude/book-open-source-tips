@@ -12,4 +12,4 @@
 
 NOTE: This includes database schema migrations, asset building and anything that is required by the end product
 
-TIP: http://travis-ci.org[TravisCI] is highly recommended in Open Source projects. Very easy to set up & get going, all frim a simople `yamla file.
+TIP: http://travis-ci.org[TravisCI] is highly recommended in Open Source projects. Very easy to set up & get going, all from a simple YAML file.
