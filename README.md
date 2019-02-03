@@ -18,7 +18,7 @@ As the ancient proverb goes, _Time and tide [and technology] wait for no man_. A
 
 We would love your help in keeping this book updated. Your comments, suggestions and pull requests are most welcome.
 
-Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
+Open Source is dominating the software industry. Its champions include well-known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
 
 While this abundant ecosystem has been of huge benefit to the whole industry, it can also make it difficult for newcomers to know where to start. If you're a newcomer, you might be faced with questions such as _"How can I contribute to the Open Source community?"_ Or, _"How do I choose between so many competing projects?"_. The following DOs and DON'Ts aim to address some of those basic questions, and offers some pointers to aspiring Open Source developers.
 
