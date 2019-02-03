@@ -9,7 +9,7 @@
 |GOOD! https://en.wikipedia.org/wiki/Test-driven_developmentp[Wikipedia]
 
 |BDD
-|Behavioural Driven Development
+|Behaviour Driven Development
 |GOOD! https://en.wikipedia.org/wiki/Behavior-driven_development[Wikipedia]
 
 |CVDD
@@ -37,4 +37,4 @@ It’s okay to not know everything, and take one step at a time to learn somethi
 You want to focus on the building blocks for your community before you get too deep in the code. "We'll do it right later" doesn't always work out well. If you don't make governance decisions now, things can fall apart, or if you make the wrong decision, it could turn off potential community members going forward.
 
 [quote, Web Accessibility Checklist, http://a11yproject.com/checklist.html]
-For many web developers, accessibility is complex and somewhat difficult. The Accessibility Project understands that and we want to help to make web accessibility easier for front end developers to implement. Blind and visually impaired make up 285,000,000 people according to the World Health Organization (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. Deaf and hearing impaired make up 275,000,000 (2004) in the moderate-to-profound hearing impairment category.
+For many web developers, accessibility is complex and somewhat difficult. The Accessibility Project understands that and we want to help to make web accessibility easier for front end developers to implement. Blind and visually impaired makeup 285,000,000 people according to the World Health Organization (June 2012) with 39,000,000 categorized as legally blind and the remaining 246,000,000 visually impaired. Deaf and hearing impaired makeup 275,000,000 (2004) in the moderate-to-profound hearing impairment category.

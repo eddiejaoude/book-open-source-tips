@@ -10,4 +10,4 @@ TIP: Pull Request should be a single feature or change.
 
 Multiple commits in a Pull Request highlight the creation steps of the Pull Request. Do not try to do everything in a single commit.
 
-Comments do matter, if in doubt, put it in, they can more easily be removed than added. Dont describe how, that is obviously in the code, desribe why.
+Comments do matter, if in doubt, put it in, they can more easily be removed than added. Don't describe how, that is obviously in the code, describe why.
