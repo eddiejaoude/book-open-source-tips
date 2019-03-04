@@ -27,7 +27,7 @@ We would love your help in keeping this book updated. Your comments, suggestions
 If you have any questions, please contact the author, {author} on {twitter}.
 
 <<<
-== Introduction
+== Intro
 
 Open Source is dominating the software industry. Its champions include well known organisations like Facebook, Twitter, Netflix, LinkedIn and Google (Android/Chrome), but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
 
