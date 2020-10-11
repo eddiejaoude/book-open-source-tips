@@ -83,4 +83,4 @@ make
 
 ### Live Server in Codespace
 
-If you are opening up in GitHub Codespace or VSCode with a DevContainer, then Live Server extension is installed and the port mapping to 5500 setup. Just start liveshare through the command pallet or with 'alt + l then alt + c' 
+If you are opening up in GitHub Codespace or VSCode with a DevContainer, then Live Server extension is installed and the port mapping to 5500 setup. Just start liveshare through the command pallet or with 'alt + l then alt + o' then goto remote explorer and open the Live Server in a new browser tab. 
