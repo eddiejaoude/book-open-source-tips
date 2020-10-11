@@ -81,6 +81,6 @@ make
 ![Generated html](https://cloud.githubusercontent.com/assets/624760/20028253/cfd770c6-a345-11e6-8552-88904ecca9dc.png)
 
 
-### Live Serve
+### Live Server in Codespace
 
 If you are opening up in GitHub Codespace or VSCode with a DevContainer, then Live Server extension is installed and the port mapping to 5500 setup. Just start liveshare through the command pallet or with 'alt + l then alt + c' 
