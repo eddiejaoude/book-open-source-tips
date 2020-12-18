@@ -1,6 +1,6 @@
 === Licenciamiento
 
-No es requerido seleccionar una licencia, sin embargo, al hacerlo, estás seleccionando "Sin Licencia" lo que por defecto te llevará a los https://help.github.com/articles/github-terms-of-service/[Términos y Condiciones] de GitHub. GitHub a creado una gran website informativo para ayudarte a elegir una http://choosealicense.com[licencia]
+No es requerido seleccionar una licencia, sin embargo, al hacerlo, estás seleccionando "Sin Licencia" lo que por defecto te llevará a los https://help.github.com/articles/github-terms-of-service/[Términos y Condiciones] de GitHub. GitHub a creado un gran sitio web informativo para ayudarte a elegir una http://choosealicense.com[licencia]
 
 A continuación ejemplos de http://choosealicense.com["Escoge una licencia de código abierto"]:
 
