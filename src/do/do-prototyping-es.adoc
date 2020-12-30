@@ -1,0 +1,5 @@
+=== Prototipando - Consigue rápidamente un prototipo para tus usuarios
+
+Consigue feedback tan pronto como sea posible. Provee un prototipo rápido a tus usuarios para obtener feedback y dirección instantáneos. Recuerda dejar en claro que es un prototipo.
+
+TIP: Cuando construyes un prototipo, la tecnología que eliges es menos importante con respecto a la longevidad que a la rapidez y posibilidad de testear nuestra potencial solución tecnológica.

@@ -1,0 +1,5 @@
+=== Revisión
+
+Incluso si eres sólo tú en el proyecto, intenta crear Pull Requests y pide a un amigo que lo revise. Esta aproximación es invaluable ya que un segundo par de ojos encuentra con frecuencia las omisiones.
+
+TIP: Incluso los cambios de texto simples pueden tener sentido para tí pero no para alguien más. ¡Revisa todo!
