@@ -1,0 +1,10 @@
+=== Milestones de GitHub
+
+Usar *Milestones* (metas) no sólo te da a ti y a tu comunidad visibilidad del objetivo actual y su progreso, sino también de los objetivos futuros y su contenido.
+
+TIP: Alinea tus versiones *Release* con tus *Milestones*
+
+.Relacionado
+****
+* link:index.html#_github_releases_tags[Consejos de lanzamientos]
+****

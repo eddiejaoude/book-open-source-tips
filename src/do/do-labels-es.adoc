@@ -1,0 +1,14 @@
+=== Etiquetas de GitHub (Labels)
+
+Éstas son realmente útiles por varias razones:
+
+- Ayudan a la gente a filtrar sus resultados, por ejemplo, por `defecto`, `idea`, etc
+- Si las personas quieren contribuir a tu proyecto, una etiqueta que manifiesta `help needed` (ayuda requerida) va a sobresalir
+- Nivel de dificultad. Los contribuyentes pueden filtrar por el nivel de dificultad en el cual se sienten cómodos
+
+TIP: Pon diferentes etiquetas pero no te vuelvas loco, entre 10-20 está bien
+
+.Relacionado
+****
+* link:index.html#_github_issue_task[Consejos de Issues & Tasks]
+****
