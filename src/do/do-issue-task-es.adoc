@@ -1,0 +1,12 @@
+=== GitHub Issue / Tarea
+
+Mantenlos pequeños. Abordar un trabajo extenso siempre es abrumador y difícil de encontrar un buen momento. Mientras más pequeñas las tareas, más probabilidades tendrán de ser resueltas y el riesgo será menor. Pero recuerda que las tareas deben aportar valor al proyecto.
+
+Incluye diagramas, capturas de pantalla, sub-tareas y cualquier elemento visual que ayude a describir el issue y los cambios.
+
+TIP: No olvides que puedes utilizar un checklist para las sub-tareas en https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments[GitHub Issues Checklist]. Las listas de sub-tareas son antepuestas por `[ ]` para items incompletos y `[x]` para items completos.
+
+.Relacionado
+****
+* link:index.html#_github_labels[Consejos para etiquetas]
+****

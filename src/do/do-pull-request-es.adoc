@@ -1,0 +1,13 @@
+=== Pull Requests
+
+Si te has tomado el tiempo de realizar el trabajo, asegúrate de agregar una descripción a tu Pull Request para facilitar la tarea de procesar lo que has hecho a quien lo revise. Crea un Issue primero para que un plan de trabajo pueda ser discutido antes de que comiences el trabajo y para recordarte a ti mismo las metas propuestas en la tarea.
+
+Los Pull Requests deberían estar enlazados al Issue original que intentan resolver. Esto puede realizarse utilizando un `#` seguido de *Issue No*, por ejemplo: `#123`. La descripción del Issue  contendrá la información previa a los cambios, por consiguiente, la descripción del Pull Request deberá contener la información posterior a los mismos. Incluye material visual también, por ejemplo, diagramas y capturas de pantalla.
+
+Recuerda, mantenlo conciso. Por ejemplo, si tus cambios contienen una característica o arreglo de un bug y cambios de estilo, éstos deberían estar en Pull Requests separados. Es mejor que cada proyecto tenga 10 Pull Requests, que 1 o 2 Pull Requests masivos.
+
+TIP: Los Pull Request deberían ser una característica o cambio individual.
+
+Múltiples commits en un Pull Request resaltan la creación de pasos en el Pull Request. No intentes hacer todo en un solo commit.
+
+Los comentarios importan, si estás en duda, agrégalo, pueden ser removidos con más facilidad que agregados. No describas el cómo, eso obviamente se encuentra en el código, describe el porqué.
