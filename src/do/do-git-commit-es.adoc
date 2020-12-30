@@ -1,0 +1,20 @@
+=== Git commit
+
+Los commits en Git deben ser pequeños y atómicos, ya sea un pequeño cambio o característica. Esto hará tus mensajes de commit más fáciles de escribir y los cambios se agruparán localmente. Hay varios beneficios a esto:
+
+* Revisar el historial será claro y fácil de entender
+ - si quieres encontrar algo
+ - deshacer / remover algún trabajo
+* Automatizar la generación del registro de cambios como parte de tu versión para etiquetar y empaquetar, etc
+
+==== Mensaje de commit 
+
+* Limita el mensaje de asunto a `50` caracteres
+* No finalices el mensaje con un punto `.`.
+* Si precisas más de `50` caracteres utiliza el cuerpo (descripción)
+* Limita el cuerpo a `72` caracteres
+* Utiliza el cuerpo para explicar `porqué` no `cómo`, esto puede verse en tu código
+
+Más información en http://chris.beams.io/posts/git-commit/[Git Commit]
+
+TIP: Antes de realizar el commit, chequea el `git diff` para asegurarte que no estás commiteando algo que no quieres, o que no debería serlo.
