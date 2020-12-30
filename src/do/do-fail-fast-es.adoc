@@ -1,0 +1,18 @@
+=== Falla rápido con ciclos rápidos de feedback
+
+Los ciclos de feedback incluyen:
+
+1. Localmente
+ * Linters
+ * Tests automatizados
+2. Integración Continua (IC)
+ * Linters
+ * Tests automatizados
+ * Deployment con Entrega Continua (EC)
+3. Testeo Manual / Exploratorio
+4. ...
+5. Todo el camino hacia el *Cliente* y luego el *Usuario*
+
+Mientras más temprano el feedback y/o cambio, más eficiente será. Por lo tanto, la contracara, mientras más tarde el feedback y/o cambio más costoso será. No sólo porque atravesó más etapas para llegar allí, sino porque luego del cambio, deberá volver a pasar por todo el proceso nuevamente.
+
+TIP: ¡Falla rápido!
