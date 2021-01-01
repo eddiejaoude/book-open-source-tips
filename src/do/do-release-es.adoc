@@ -1,0 +1,10 @@
+=== Publicaciones / Etiquetas de GitHub
+
+Cuando estés conforme con el trabajo hecho, realiza una *Release* (publicación) para que tu comunidad sepa que es una versión estable. En las *release notes* (notas de la publicación), incluye *change log* (registro de cambios).
+
+TIP: Alinea tus versiones *Release* con tus *Milestones*
+
+.Relacionado
+****
+* link:index.html#_github_milestones[Consejos de metas]
+****

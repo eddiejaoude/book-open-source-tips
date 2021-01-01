@@ -6,5 +6,5 @@ TIP: Alinea tus versiones *Release* con tus *Milestones*
 
 .Relacionado
 ****
-* link:index.html#_github_releases_tags[Consejos de lanzamientos]
+* link:index.html#_github_releases_tags[Consejos de publicaciones]
 ****

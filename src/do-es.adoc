@@ -1,4 +1,4 @@
-include::do/do-readme.adoc[]
+include::do/do-readme-es.adoc[]
 
 include::do/do-code-block-es.adoc[]
 
@@ -8,42 +8,42 @@ include::do/do-explore-open-source-projects-es.adoc[]
 
 include::do/do-code-of-conduct-es.adoc[]
 
-include::do/do-github-template-files.adoc[]
+include::do/do-github-template-files-es.adoc[]
 
-include::do/do-licensing.adoc[]
+include::do/do-licensing-es.adoc[]
 
-include::do/do-git-commit.adoc[]
+include::do/do-git-commit-es.adoc[]
 
 include::do/do-little-and-often.adoc[]
 
-include::do/do-plan-ahead.adoc[]
+include::do/do-plan-ahead-es.adoc[]
 
-include::do/do-issue-task.adoc[]
+include::do/do-issue-task-es.adoc[]
 
 include::do/do-always-respond-es.adoc[]
 
-include::do/do-pull-request.adoc[]
+include::do/do-pull-request-es.adoc[]
 
-include::do/do-review.adoc[]
+include::do/do-review-es.adoc[]
 
 include::do/do-automation-es.adoc[]
 
-include::do/do-prototyping.adoc[]
+include::do/do-prototyping-es.adoc[]
 
-include::do/do-optimal-time.adoc[]
+include::do/do-optimal-time-es.adoc[]
 
-include::do/do-not-enough-time.adoc[]
+include::do/do-not-enough-time-es.adoc[]
 
 include::do/do-codebase-improvements-es.adoc[]
 
-include::do/do-fail-fast.adoc[]
+include::do/do-fail-fast-es.adoc[]
 
 include::do/do-accessible-es.adoc[]
 
-include::do/do-labels.adoc[]
+include::do/do-labels-es.adoc[]
 
-include::do/do-milestone.adoc[]
+include::do/do-milestone-es.adoc[]
 
-include::do/do-release.adoc[]
+include::do/do-release-es.adoc[]
 
 include::do/do-branching-es.adoc[]
