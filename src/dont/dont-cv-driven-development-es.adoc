@@ -1,0 +1,5 @@
+=== Desarrollo guiado por CV
+
+Muchos de nosotros hemos escuchado acerca del Desarrollo guiado por pruebas o Test Driven Development (TDD). No caigas en la trampa del Desarrollo guiado por CV o CV Driven Development (CVDD). Es bueno aumentar tus habilidades con nuevas tecnologías pero haz poco a la vez para reducir el riesgo. No pruebes cada nueva tecnología que deseas aprender en el mismo proyecto, esto es de muy alto riesgo, con la conclusión más probable de un pobre resultado y, por consiguiente, frustración.
+
+TIP: Aproximadamante entre un 10 - 20% de nuevas tecnologías por proyecto es una buena, segura y excitante cantidad.

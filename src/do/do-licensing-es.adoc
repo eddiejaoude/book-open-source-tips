@@ -1,0 +1,25 @@
+=== Licenciamiento
+
+No es requerido seleccionar una licencia, sin embargo, al hacerlo, estás seleccionando "Sin Licencia" lo que por defecto te llevará a los https://help.github.com/articles/github-terms-of-service/[Términos y Condiciones] de GitHub. GitHub ha creado un gran sitio web informativo para ayudarte a elegir una http://choosealicense.com[licencia]
+
+A continuación ejemplos de http://choosealicense.com["Escoge una licencia de código abierto"]:
+
+[quote, Escoge una Licencia, Licencia MIT]
+La Licencia MIT es una licencia permisiva que es breve y va directo al grano. Permite a la gente hacer lo que deseen con tu código siempre y cuando recibas atribución y no te hagan responsable.
+
+NOTE: jQuery, .NET Core, y Rails utilizan la Licencia MIT.
+
+[quote, Escoge una Licencia, Licencia Apache 2.0]
+La Licencia Apache 2.0 es una licencia permisiva similar a la licencia del MIT, pero además provee una otorgamiento expreso de derechos de patente de los colaboradores a los usuarios.
+
+NOTE: Android, Apache, y Swift utilizan la Licencia Apache 2.0.
+
+[quote, Escoge una Licencia, GNU GPLv3]
+La GNU GPLv3 es una licencia copyleft que requiere que cualquiera que distribuya tu código o un trabajo derivado haga lo mismo con el código fuente bajo los mismos términos, y también provee una otorgamiento expreso de derechos de patente de los colaboradores a los usuarios. 
+
+NOTE: Bash, GIMP, y Privacy Badger utilizan la Licencia GNU GPLv3.
+
+[quote, Escoge una Licencia, Sin Licencia]
+Cuando realizas un trabajo creativo (que incluye código), tu trabajo está bajo copyright exclusivo por defecto. A menos que incluyas una licencia que especifique lo contrario, nadie más puede usar, copiar, distribuir, o modificar tu trabajo sin correr el riesgo de bajas, sacudidas o litigios. Una vez que tu trabajo tiene otros colaboradores (cada uno un titular de derechos de autor), "nadie" comienza a incluirte a ti.
+
+CAUTION: Como consumidor, si encuentras software que no contiene una licencia, eso generalmente significa que no tienes permiso de los creadores para usar, modificar, o compartir el software. A pesar de que un alojador de código como GitHub pueda permitirme ver y bifurcar -fork- el código,  esto no implica que tú tienes el permiso de usar, modificar, o compartir el software para ningún propósito. Tus opciones son: Pide amablemente a los desarrolladores que agreguen una licencia, no utilices el software, negocia una licencia privada con un abogado.

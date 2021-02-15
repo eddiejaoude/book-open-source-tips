@@ -1,0 +1,62 @@
+=== Archivo Readme
+
+La documentación es algo que suele dejarse para el final. Comienza cada proyecto con, al menos, un archivo `README.md` con información básica, por ejemplo, una descripción y guía de inicio rápido, si cambias alguna característica o funcionalidad, intenta al menos actualizarlo en conjunto con tus commits.
+
+Ejemplo README.md
+
+```
+# Nombre del Proyecto
+
+Incluye cualquier identificación del proyecto (ej. CI) aquí al comienzo.
+
+Descripción del proyecto y sus objetivos.
+
+Incluye también lo que no hace.
+
+
+## Capturas de pantalla
+
+Nada dice más que las capturas de pantalla.
+
+
+## Dependencias
+
+Cualquier dependencia requerida por el proyecto.
+
+
+## Instalación
+
+Cómo instalar en Mac...
+
+Cómo instalar en Linux...
+
+Cómo instalar en Windows...
+
+
+## Uso
+
+Cómo utilizar el proyecto
+
+
+## Configuración de Contribuciones
+
+Si la gente quiere contribuir, qué pasos deberían seguir.
+
+Resumen y enlace al archivo `CONTRIBUTION.md` con más detalles.
+
+
+## Código de Conducta
+
+Resumen del Código de Conducta, con un enlace a `CODE_OF_CONDUCT.md`.
+
+
+## Registro de Cambios / Historial de Versiones
+
+Versión principal y cambios importantes.
+
+
+## Meta data
+
+Cualquier otra información útil.
+
+```

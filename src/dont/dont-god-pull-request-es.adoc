@@ -1,0 +1,5 @@
+=== Pull Request de dios
+
+Similar a los "commit de dios", los pull request de dios son una mala idea. Revisar pull request de dios o big bang no sólo es agobiante y laborioso, sino que además dan lugar a revisiones superficiales y por lo tanto errores. Un pull request debe ser una sola característica.
+
+TIP: Nunca nadie se quejó de que un Pull Request era muy pequeño.

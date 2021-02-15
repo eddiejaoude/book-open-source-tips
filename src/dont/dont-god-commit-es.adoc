@@ -1,0 +1,5 @@
+=== Commit de dios
+
+Los commits de dios o commits big bang son inútiles y confusos. Son terribles para ti y para la comunidad por demasiadas razones.
+
+TIP: Cada commit debe hacer sólo un ítem

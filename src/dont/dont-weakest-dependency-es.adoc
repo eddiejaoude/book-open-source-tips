@@ -1,0 +1,10 @@
+=== Dependencia más débil
+
+Tu proyecto es tan bueno como tu dependencia más débil. Revisa las dependencias que incluyes en tu proyecto antes de incluirlas, mira sus:
+
+- licencia
+- actividad de contribución
+- seguridad
+- colaboradores
+
+TIP: Sé consciente de las dependencias que incluyes. Es estupendo no reinventar la rueda, usualmente hay un montón de opciones disponibles pero asegúrate de realizar tu investigación acerca de las librerías disponibles.

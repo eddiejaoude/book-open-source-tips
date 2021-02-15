@@ -1,0 +1,14 @@
+=== Plantillas de Github
+
+Las plantillas de Issue y Pull Request realmente ayudan a mantener el proyecyo consistente y recuerdan a las personas no dejar afuera cierta información útil.
+
+[quote, GitHub, Plantilla para Issue de GitHub]
+Para agregar una plantilla de Issue a un repositorio cree un archivo llamado ISSUE_TEMPLATE en el directorio raíz. Una extensión de archivo es opcional, pero los archivos Markdown (.md) son soportados. El soporte para Markdown hace más fácil agregar cosas como títulos, enlaces, @-menciones, y listas de tareas a tus plantillas.
+
+[quote, GitHub, Plantilla para Pull Request de GitHub]
+Las plantillas para Pull Request siguen el mismo patrón: agrega un archivo denominado PULL_REQUEST_TEMPLATE al directorio raíz de tu repositorio.
+
+[quote, GitHub, Directorio Oculto de GitHub para Plantillas]
+Si te preocupa la desorganización creada en el directorio raíz de tu proyecto, también hemos agregado soporte para una carpeta .github/. Puedes poner los archivos CONTRIBUTING.md, ISSUE_TEMPLATE.md, y PULL_REQUEST_TEMPLATE.md en .github/ y todo seguirá funciona como estaba previsto.
+
+https://help.github.com/articles/helping-people-contribute-to-your-project/[Detalles completos de GitHub] para ayudar a las personas a contribuir en tu proyecto
