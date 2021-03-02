@@ -27,6 +27,7 @@ jobs:
           sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index.adoc
           sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index-es.adoc
           sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index-fil.adoc
+          cat src/index.adoc
           make
 
       - name: Deploy
