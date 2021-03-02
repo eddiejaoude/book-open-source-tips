@@ -23,7 +23,11 @@ jobs:
           asciidoctor-pdf -v
 
       - name: Build
-        run: make
+        run: |
+          sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index.adoc
+          sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index-es.adoc
+          sed -i -- 's/0.1.0/0.1.'$GITHUB_RUN_NUMBER'/g' src/index-fil.adoc
+          make
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.0.0
