@@ -16,7 +16,7 @@ Also include what it does not do.
 
 ## Screenshots
 
-Nothing says a lot than screenshots.
+Nothing says more than screenshots.
 
 
 ## Dependencies
