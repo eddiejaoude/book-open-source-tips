@@ -8,6 +8,7 @@ Open Source book on Open Source Tips
 | :--- | :--- | :--- |
 | English | - | https://eddiejaoude.github.io/book-open-source-tips/ |
 | Spanish | In progress | https://eddiejaoude.github.io/book-open-source-tips/index-es.html |
+| Filipino | In progress | https://eddiejaoude.github.io/book-open-source-tips/index-fil.html |
 
 This book contains some common **DOs** & **DON'Ts** for Open Source software.
 
