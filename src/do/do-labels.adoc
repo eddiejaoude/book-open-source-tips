@@ -4,7 +4,7 @@ These are really useful for various reasons:
 
 - Helps people filter their results, for example by `defect`, `idea` etc
 - If people want to contribute to your project a label that states `help needed` will stand out
-- Difficulty level. Contributors can filter by a level they are comfortable with
+- Difficulty level. Contributors can filter by a level they are comfortable with. Having some sort of ranking system like beginner, intermediate and expert will help to make it easier for contributors, especially beginners to know which issues to tackle.
 
 TIP: Have different labels but don't go label crazy, 10-20 is about right
 

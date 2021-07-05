@@ -22,6 +22,7 @@ For example:
 * Alternative `alt` text for images
 * Keyboard input as well as mouse
 * Transcripts for videos
-* ...
+* ...and much more!
+* A good place to look for ideas would be https://www.w3.org/WAI/standards-guidelines/
 
 TIP: Be inclusive
