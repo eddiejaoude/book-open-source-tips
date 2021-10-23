@@ -1,5 +1,9 @@
 === God commit
 
-God commits or big bang commits are useless & confusing. These are terrible for you & the community for so many reasons.
+God commits or big bang commits are not good because they are difficul to understand and review, these can block pull requests.
+
+Also if a commit needs to be cherry picked in/out, then it makes it very difficult.
+
+For example if files are being reformatted, this should be done in 1 commit, not with other changes otherwise it is confusing.{
 
 TIP: Each commit should do one single item
