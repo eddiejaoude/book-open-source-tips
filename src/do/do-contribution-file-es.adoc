@@ -5,4 +5,4 @@ Uno de los principales beneficios de un proyecto de Código Abierto y sus contri
 [quote, GitHub, Pautas de Contribución de GitHub]
 Muchas veces los proyectos de código abierto colocan un archivo CONTRIBUYENTE en el directorio raíz. Explica cómo un participante debe hacer las cosas, como código de formato, correcciones de prueba y enviar parches. Aquí hay un buen ejemplo de puppet y otro de factory_girl_rails. Desde el punto de vista de un mantenedor, el documento comunica de manera sucinta la mejor manera de colaborar. Y para un colaborador, una revisión rápida de este archivo verifica que su presentación sigue las pautas del mantenedor.
 
-image::github-contributing-file.png[caption="Pautas de Contribución de GitHub", role="thumb", title="Pautas de Contribución de GitHub", alt="Pautas de Contribución de GitHub", link="https://github.com/blog/1184-contributing-guidelines"]
+image::github-contributing-file.png[caption="", role="thumb", title="Pautas de Contribución de GitHub", alt="Pautas de Contribución de GitHub", link="https://github.com/blog/1184-contributing-guidelines"]
