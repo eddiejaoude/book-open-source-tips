@@ -5,4 +5,4 @@ One of the main benefits of an Open Source project & its community contributions
 [quote, GitHub, GitHub Contributing Guidelines]
 Often times open source projects place a CONTRIBUTING file in the root directory. It explains how a participant should do things like format code, test fixes, and submit patches. Here is a fine example from puppet and another one from factory_girl_rails. From a maintainer's point of view, the document succinctly communicates how best to collaborate. And for a contributor, one quick check of this file verifies their submission follows the maintainer's guidelines.
 
-image::github-contributing-file.png[caption="", role="thumb", title="GitHub Contributing Guidelines", alt="GitHub Contributing Guidelines", link="https://github.com/blog/1184-contributing-guidelines"]
+image::../images/github-contributing-file.png[caption="", role="thumb", title="GitHub Contributing Guidelines", alt="GitHub Contributing Guidelines", link="https://github.com/blog/1184-contributing-guidelines"]
