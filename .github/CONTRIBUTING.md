@@ -14,4 +14,4 @@ agree to abide by the [Contributor Covenant](http://contributor-covenant.org).
 
 **DONE**
 
-Once the **Pull Request** has been accepted & merged into `master`, it will automatically be built (with [AsciiDoctor](http://asciidoctor.org) html & pdf) & [deployed](https://eddiejaoude.github.io/book-open-source-tips/)
+Once the **Pull Request** has been accepted & merged into `master`, it will automatically be built (with [AsciiDoctor](http://asciidoctor.org) html & pdf) & [deployed](https://eddiejaoude.github.io/book-open-source-tips/) 
