@@ -4,6 +4,6 @@ God commits or big bang commits are not good because they are difficul to unders
 
 Also if a commit needs to be cherry picked in/out, then it makes it very difficult.
 
-For example if files are being reformatted, this should be done in 1 commit, not with other changes otherwise it is confusing.{
+For example if files are being reformatted, this should be done in 1 commit, not with other changes otherwise it is confusing.
 
 TIP: Each commit should do one single item
