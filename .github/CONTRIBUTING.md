@@ -5,8 +5,8 @@ agree to abide by the [Contributor Covenant](http://contributor-covenant.org).
 
 ## Steps
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this [project](https://github.com/eddiejaoude/book-open-source-tips) 
-2. [Clone](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) your forked version `git clone git@github.com:<YOUR-USERNAME>/book-open-source-tips.git`
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this [project](https://github.com/eddiejaoude/book-open-source-tips)
+2. [Clone](https://docs.github.com/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your forked version `git clone git@github.com:<YOUR-USERNAME>/book-open-source-tips.git`
 3. Make changes (mostly probably in `src/` directory)
 4. [Commit](https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/) your changes (write a short descriptive message of what you have done)
 5. [Push](https://help.github.com/articles/pushing-to-a-remote/) your changes to your forked version
