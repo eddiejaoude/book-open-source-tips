@@ -12,11 +12,11 @@ Open Source book on Open Source Tips
 
 This book contains some common **DOs** & **DON'Ts** for Open Source software.
 
-The Open Source community is thriving. Each day the number of Open Source projects grows, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
+The Open Source community is thriving. Each day the number of Open Source projects grow, as does the army of contributors that maintain them. While this is exciting for the industry, it can be daunting as a developer new to the community. This book aims to provide some tips for newcomers to help them avoid the pitfalls of Open Source development and learn from the community's collective wisdom.
 
 As the ancient proverb goes, _Time and tide [and technology] wait for no man_. And to the best of our ability, neither will this book. Remember to check the version number for updates!
 
-We would love your help in keeping this book updated. Your comments, suggestions and pull requests are most welcome.
+We would love your help in keeping this book updated. Your comments, suggestions, and pull requests are most welcome.
 
 Open Source is dominating the software industry. Its champions include well-known organisations like Facebook, Twitter and Netflix, but more significantly, an army of passionate individual developers around the world. Their efforts have impacted almost every part of computer science, culminating in millions of open source projects, with billions of lines of code!
 
@@ -83,4 +83,4 @@ make
 
 ### Live Server in Codespace
 
-If you are opening up in GitHub Codespace or VSCode with a DevContainer, then Live Server extension is installed and the port mapping to 5500 setup. Just start liveshare through the command pallet or with 'alt + l then alt + o' then goto remote explorer and open the Live Server in a new browser tab. 
+If you are opening up in GitHub Codespace or VSCode with a DevContainer, then Live Server extension is installed and the port mapping to 5500 setup. Just start liveshare through the command pallet or with 'alt + l then alt + o' then go to remote explorer and open the Live Server in a new browser tab. 
