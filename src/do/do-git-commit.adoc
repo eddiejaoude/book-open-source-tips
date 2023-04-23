@@ -1,6 +1,6 @@
 === Git commit
 
-Git commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
+Git commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and changes will be grouped logically. There are many benefits to this:
 
 * Looking back through the history will be clear & easy to understand
  - if you want to find something
