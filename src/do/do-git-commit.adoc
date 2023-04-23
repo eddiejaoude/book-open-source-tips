@@ -1,20 +1,20 @@
-=== Git commit
+=== Git de commit
 
-Git commits should be small and atomic, be it a single change or small feature. This will make your commit messages easier to write and and changes will be grouped logically. There are many benefits to this:
+Los Git de commits deberían ser pequeños y atómicos, sin importar si son un solo cambio o un rasgo menor. Esto hará que tus mensajes de confirmación de cambios sean más fáciles de escribir y que los cambios estén agrupados de forma lógica. Esto trae consigo muchos beneficios:
 
-* Looking back through the history will be clear & easy to understand
- - if you want to find something
- - undo / remove some work
-* Automate the changelog generation as part of your build for tag & package etc
+* Revisar el historial será claro y sencillo de comprender
+ - si quieres encontrar algo
+ - deshacer / remover algún trabajo
+* Automatizar la generación del changelog como parte de tu construcción para etiquetas y paquetes, entre otros
 
-==== Commit message
+==== Mensaje de Commit
 
-* Limit the subject line to `50` characters
-* Do not end the subject line with a period `.`.
-* If more than `50` characters use the body (description)
-* Wrap the body at `72` characters.
-* Use the body to explain `why` not `how`, this can been seen in the code
+* Reduce el asunto a `50` caracteres
+* No termines el asunto con un punto `.`.
+* Si más de `50` caracteres usan el cuerpo (descripción)
+* Cierra el cuerpo al llegar a los `72` caracteres.
+* Usa el cuerpo para explicar el `porqué` y no el `cómo`, esto se puede ver en el código
 
-More information http://chris.beams.io/posts/git-commit/[Git Commit]
+Para más información http://chris.beams.io/posts/git-commit/[Git Commit]
 
-TIP: Before doing the commit, check the `git diff` to make sure you are not committing anything you do not want to, or should not be.
+TIP: Antes de hacer el commit, revisa el `git diff` para asegurarte de que no estás haciendo definitivo un cambio indeseado o que no debería hacerse.
